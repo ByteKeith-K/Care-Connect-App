@@ -80,3 +80,4 @@ ml_predictions.log
 # Temporary backup files
 *~
 scripts/care-connect-app-37a32-firebase-adminsdk-fbsvc-359903fd5d.json
+lib/firebase_options.dart
