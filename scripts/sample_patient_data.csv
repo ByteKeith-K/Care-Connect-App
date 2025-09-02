@@ -1,0 +1,1001 @@
+patientId,age,gender,hasMedicalAid,heartRate,systolicBP,diastolicBP,temperature,respiratoryRate,oxygenSaturation,height,weight,medicalHistory,diagnosis,outcome
+PAT0001,51,Other,0,64,186,121,38.5,14,95,202,104,Asthma,AIDS,recovered
+PAT0002,74,Male,1,149,183,73,38.9,28,71,207,67,HIV/AIDS,Stroke,recovered
+PAT0003,1,Other,1,109,100,82,36.3,29,98,208,78,Multiple Sclerosis,Measles,stable
+PAT0004,90,Other,0,91,171,109,36.7,37,99,166,80,Hepatitis,Asthma,deteriorating
+PAT0005,54,Male,1,113,82,100,39.1,16,76,137,161,HIV/AIDS,Depression,stable
+PAT0006,88,Other,1,63,193,58,34.1,9,89,179,37,Tuberculosis,Cystic Fibrosis,stable
+PAT0007,46,Other,0,127,160,85,35.4,11,71,125,83,Hepatitis,Ulcer,stable
+PAT0008,3,Female,1,142,142,67,39.8,9,79,181,43,Diabetes,Multiple Sclerosis,recovered
+PAT0009,94,Other,1,64,151,127,35.5,32,99,159,111,Hepatitis,Cancer,stable
+PAT0010,52,Male,1,75,168,109,38.1,16,98,134,74,Obesity,Pneumonia,deteriorating
+PAT0011,64,Male,0,120,88,50,35.5,31,80,200,165,Malaria,Cholera,stable
+PAT0012,34,Female,0,82,84,90,40.9,16,77,131,62,Hypertension,Lupus,stable
+PAT0013,47,Male,0,72,141,86,39.5,15,91,154,130,Dengue,Flu,stable
+PAT0014,46,Other,1,52,80,54,38.2,38,83,146,166,Sickle Cell,Measles,recovered
+PAT0015,78,Other,0,139,121,126,35.5,39,76,171,125,Tuberculosis,Cystic Fibrosis,deteriorating
+PAT0016,3,Other,1,72,182,64,39.7,11,82,151,100,HIV/AIDS,Multiple Sclerosis,stable
+PAT0017,58,Male,0,135,107,115,38.7,37,94,125,57,HIV/AIDS,Cholera,deteriorating
+PAT0018,27,Female,1,93,163,79,40.6,39,95,208,158,Epilepsy,Sickle Cell,recovered
+PAT0019,26,Male,1,126,184,52,34.1,15,96,128,91,Malaria,Tuberculosis,stable
+PAT0020,36,Female,0,100,185,93,35.8,34,91,151,125,Lupus,Polio,stable
+PAT0021,87,Male,0,101,192,111,41.3,27,81,158,159,Sickle Cell,Sickle Cell,deteriorating
+PAT0022,2,Other,0,105,160,108,38.6,9,97,173,116,HIV/AIDS,Bronchitis,stable
+PAT0023,95,Female,0,50,98,51,38.0,33,75,151,97,Thalassemia,Cystic Fibrosis,stable
+PAT0024,54,Other,0,105,96,87,36.8,27,71,189,168,Obesity,Zika,recovered
+PAT0025,15,Male,0,122,138,119,39.2,10,89,178,176,HIV/AIDS,Zika,deteriorating
+PAT0026,89,Female,0,68,99,120,35.3,8,77,158,111,Dengue,Migraine,deteriorating
+PAT0027,0,Other,0,141,136,99,40.9,37,79,126,173,Lupus,Cancer,stable
+PAT0028,89,Female,1,109,192,51,41.5,37,81,188,66,Dengue,Measles,recovered
+PAT0029,31,Female,0,58,184,68,39.4,10,89,143,83,None,Migraine,deteriorating
+PAT0030,32,Other,1,124,192,121,39.9,15,89,208,128,Alzheimer,Arthritis,stable
+PAT0031,24,Other,0,67,189,115,39.2,23,98,160,97,Hepatitis,Measles,stable
+PAT0032,32,Female,1,70,127,69,36.7,15,76,186,174,HIV/AIDS,Stroke,stable
+PAT0033,32,Male,1,125,138,71,35.8,13,75,170,37,Hypertension,Cholera,deteriorating
+PAT0034,26,Other,0,147,100,79,38.8,22,70,188,90,Cancer,Ebola,stable
+PAT0035,47,Other,0,53,114,113,38.8,24,81,149,75,Heart Disease,Malaria,stable
+PAT0036,5,Female,0,86,103,95,41.2,10,97,182,96,Arthritis,Migraine,recovered
+PAT0037,17,Male,0,144,133,107,41.0,21,93,151,115,Cystic Fibrosis,Lupus,deteriorating
+PAT0038,22,Other,1,76,185,51,36.4,15,70,128,72,Chronic Kidney Disease,Multiple Sclerosis,stable
+PAT0039,47,Male,0,142,121,75,40.1,32,93,132,89,COPD,Dengue,deteriorating
+PAT0040,6,Male,0,85,124,69,38.9,39,83,135,171,Multiple Sclerosis,Measles,recovered
+PAT0041,75,Other,0,136,94,115,37.3,38,91,170,92,Cancer,Depression,recovered
+PAT0042,61,Other,0,71,137,107,34.2,27,79,189,44,COPD,Zika,stable
+PAT0043,53,Other,0,109,180,57,39.8,19,81,124,132,Tuberculosis,Stroke,stable
+PAT0044,67,Male,1,145,195,96,39.2,15,89,135,42,Alzheimer,Multiple Sclerosis,recovered
+PAT0045,29,Male,0,66,199,112,37.3,33,92,209,146,Sickle Cell,Cancer,stable
+PAT0046,61,Male,0,58,91,50,35.3,8,84,153,125,Malaria,Measles,recovered
+PAT0047,47,Female,0,50,95,110,39.5,38,74,141,122,HIV/AIDS,Asthma,stable
+PAT0048,66,Other,1,75,95,100,39.7,32,98,197,98,Heart Disease,Flu,recovered
+PAT0049,46,Male,0,143,189,111,39.3,19,85,209,114,Alzheimer,Multiple Sclerosis,deteriorating
+PAT0050,38,Other,1,82,173,72,34.4,29,74,153,167,Depression,Arthritis,deteriorating
+PAT0051,18,Other,1,145,80,118,39.1,23,93,199,31,Sickle Cell,Dengue,recovered
+PAT0052,91,Other,1,81,170,73,39.1,10,97,152,130,Multiple Sclerosis,Cystic Fibrosis,stable
+PAT0053,11,Female,0,114,112,89,40.8,19,98,132,41,Dengue,Thalassemia,stable
+PAT0054,94,Female,1,51,194,84,36.5,33,77,145,119,Arthritis,Hepatitis,deteriorating
+PAT0055,33,Male,0,56,147,107,39.2,20,80,148,149,Heart Disease,Cancer,deteriorating
+PAT0056,35,Other,0,70,115,59,37.2,31,72,168,128,HIV/AIDS,Alzheimer,stable
+PAT0057,35,Male,1,145,103,72,41.0,12,81,174,42,Lupus,Sickle Cell,deteriorating
+PAT0058,22,Male,0,148,184,79,40.8,37,89,208,115,Hypertension,Cholera,stable
+PAT0059,12,Other,0,68,128,61,41.2,26,81,128,57,HIV/AIDS,Migraine,stable
+PAT0060,77,Male,0,101,162,65,37.4,10,81,144,152,Alzheimer,Stroke,recovered
+PAT0061,84,Other,1,102,102,65,39.9,20,90,161,171,Parkinson,Epilepsy,stable
+PAT0062,94,Female,1,54,114,124,34.9,19,78,193,174,Hepatitis,COVID-19,deteriorating
+PAT0063,6,Other,1,62,119,91,37.0,34,95,185,34,Hepatitis,Tuberculosis,stable
+PAT0064,28,Female,0,87,162,57,36.8,8,91,136,100,Multiple Sclerosis,Asthma,stable
+PAT0065,88,Other,0,53,115,119,39.3,26,98,173,120,Asthma,Asthma,stable
+PAT0066,73,Female,1,68,118,116,35.9,25,97,177,177,Asthma,Ulcer,deteriorating
+PAT0067,91,Other,1,110,184,88,39.6,20,97,181,142,Epilepsy,Stroke,stable
+PAT0068,24,Female,1,82,117,55,40.0,20,82,180,76,Epilepsy,Ulcer,recovered
+PAT0069,20,Male,1,134,154,85,38.2,27,94,137,76,Epilepsy,Ebola,recovered
+PAT0070,48,Other,1,64,110,50,38.7,29,72,135,41,Asthma,Asthma,stable
+PAT0071,73,Other,1,65,151,125,34.8,28,77,155,119,Diabetes,Flu,recovered
+PAT0072,7,Male,1,109,129,77,34.6,16,73,183,174,Cancer,Dengue,stable
+PAT0073,72,Male,0,133,156,78,35.0,10,98,125,111,Dengue,Measles,deteriorating
+PAT0074,68,Female,0,74,145,59,41.0,25,96,124,148,Diabetes,Malaria,stable
+PAT0075,32,Female,1,114,97,98,36.8,33,94,205,88,COPD,Dengue,stable
+PAT0076,26,Other,0,126,112,50,34.1,30,75,200,124,Alzheimer,Thalassemia,recovered
+PAT0077,4,Male,1,52,132,72,39.8,12,79,193,112,Tuberculosis,Gastritis,stable
+PAT0078,16,Male,0,127,152,50,41.2,20,73,181,142,Parkinson,Lupus,stable
+PAT0079,31,Other,1,141,174,121,34.2,33,71,173,147,Obesity,Asthma,deteriorating
+PAT0080,2,Female,0,99,91,114,38.1,12,99,176,174,Arthritis,Polio,recovered
+PAT0081,46,Male,0,128,180,63,39.3,26,76,157,67,Hypertension,Depression,deteriorating
+PAT0082,49,Male,1,131,109,128,37.3,38,71,171,108,Heart Disease,Parkinson,deteriorating
+PAT0083,29,Male,0,100,160,54,40.0,17,93,136,103,Dengue,Pneumonia,recovered
+PAT0084,16,Other,1,133,167,118,41.4,28,71,196,155,HIV/AIDS,Alzheimer,stable
+PAT0085,42,Other,1,124,194,72,35.0,38,80,135,37,Heart Disease,Dengue,stable
+PAT0086,3,Other,1,53,135,74,40.7,10,96,151,90,Arthritis,Cancer,recovered
+PAT0087,50,Male,0,70,84,91,35.3,28,75,120,162,Cystic Fibrosis,Cystic Fibrosis,stable
+PAT0088,11,Female,1,95,113,98,37.8,20,96,192,55,Dengue,Stroke,stable
+PAT0089,46,Female,0,135,190,105,40.6,38,85,180,110,Epilepsy,Cancer,recovered
+PAT0090,25,Male,1,50,87,101,35.6,38,93,205,43,Diabetes,Hepatitis,stable
+PAT0091,89,Other,1,136,157,51,39.6,21,96,175,144,Asthma,Flu,stable
+PAT0092,6,Other,0,72,189,67,37.4,10,88,134,148,Chronic Kidney Disease,Stroke,recovered
+PAT0093,27,Male,1,88,136,66,35.6,33,99,163,54,HIV/AIDS,Tuberculosis,stable
+PAT0094,16,Female,0,133,104,117,36.7,16,82,137,140,Alzheimer,Cystic Fibrosis,stable
+PAT0095,99,Other,0,135,113,57,38.4,19,88,161,130,Arthritis,AIDS,stable
+PAT0096,5,Other,1,75,143,108,36.7,20,75,152,179,COPD,Polio,stable
+PAT0097,20,Male,1,119,198,53,40.4,37,99,143,84,Chronic Kidney Disease,Pneumonia,recovered
+PAT0098,8,Other,0,52,194,80,37.1,11,93,125,95,Alzheimer,Stroke,stable
+PAT0099,83,Other,1,124,83,128,40.1,24,99,170,91,Tuberculosis,Cystic Fibrosis,stable
+PAT0100,56,Other,1,128,154,57,37.6,20,81,124,99,Thalassemia,Cholera,stable
+PAT0101,25,Female,1,117,98,69,35.8,22,70,209,171,Chronic Kidney Disease,Measles,recovered
+PAT0102,63,Male,1,86,90,126,38.0,8,75,169,39,Heart Disease,Sickle Cell,stable
+PAT0103,4,Female,0,59,123,51,36.4,9,89,184,92,Hypertension,AIDS,stable
+PAT0104,72,Male,0,58,154,64,37.5,30,72,168,98,Thalassemia,Migraine,deteriorating
+PAT0105,61,Female,1,99,157,124,41.0,19,72,154,30,Alzheimer,Cystic Fibrosis,stable
+PAT0106,39,Male,1,71,139,113,39.9,18,78,133,89,Asthma,Flu,recovered
+PAT0107,29,Other,0,134,116,54,35.8,21,95,181,161,None,Arthritis,deteriorating
+PAT0108,88,Female,0,91,168,67,40.1,14,77,133,61,Parkinson,Arthritis,deteriorating
+PAT0109,50,Male,0,87,176,72,37.3,8,94,136,82,Hypertension,Gastritis,stable
+PAT0110,50,Male,0,100,149,55,36.5,26,77,161,44,Malaria,COVID-19,stable
+PAT0111,28,Other,0,143,182,76,39.9,13,94,146,62,Asthma,Tuberculosis,recovered
+PAT0112,67,Female,1,115,89,54,40.6,8,91,157,170,Sickle Cell,Lupus,deteriorating
+PAT0113,30,Male,0,149,188,101,37.0,36,77,124,76,Cancer,Ebola,recovered
+PAT0114,67,Female,1,94,81,76,38.8,26,73,155,55,Diabetes,Bronchitis,recovered
+PAT0115,42,Female,0,118,99,60,41.2,15,75,125,52,Hepatitis,Ebola,stable
+PAT0116,46,Other,1,95,186,61,40.8,15,99,201,140,HIV/AIDS,Migraine,deteriorating
+PAT0117,59,Other,0,125,187,117,39.9,12,77,150,151,Asthma,Malaria,recovered
+PAT0118,8,Female,1,100,108,127,41.0,29,80,142,30,HIV/AIDS,COVID-19,recovered
+PAT0119,45,Female,0,70,169,85,34.9,32,70,182,84,Malaria,Gastritis,recovered
+PAT0120,39,Male,0,70,126,122,39.6,17,89,176,146,HIV/AIDS,AIDS,stable
+PAT0121,25,Female,0,84,142,74,40.5,13,71,126,120,Obesity,Migraine,recovered
+PAT0122,16,Female,1,92,138,100,35.9,32,76,171,117,Malaria,Sickle Cell,stable
+PAT0123,32,Other,0,78,142,71,35.7,25,90,168,110,Alzheimer,Cancer,recovered
+PAT0124,83,Male,0,98,99,112,41.5,24,76,120,170,Chronic Kidney Disease,Bronchitis,stable
+PAT0125,93,Female,0,100,135,111,35.5,36,86,164,59,Hypertension,Pneumonia,stable
+PAT0126,15,Female,1,68,97,50,39.8,22,87,185,142,Multiple Sclerosis,Ebola,stable
+PAT0127,93,Other,1,100,142,53,35.4,36,92,122,61,Arthritis,Pneumonia,stable
+PAT0128,9,Other,1,132,189,83,37.1,30,92,151,164,Tuberculosis,Migraine,deteriorating
+PAT0129,92,Female,1,114,136,116,35.7,34,98,191,83,Diabetes,Depression,recovered
+PAT0130,66,Other,0,146,171,57,34.7,39,93,197,61,Cystic Fibrosis,Lupus,recovered
+PAT0131,45,Other,0,65,147,86,35.1,21,92,167,36,Cystic Fibrosis,COVID-19,stable
+PAT0132,73,Male,0,82,102,68,34.9,26,73,148,111,Cystic Fibrosis,Polio,stable
+PAT0133,1,Female,0,96,148,69,36.5,38,71,186,148,Cystic Fibrosis,Cholera,deteriorating
+PAT0134,11,Female,1,54,116,87,39.8,16,71,172,128,Arthritis,Gastritis,stable
+PAT0135,85,Female,1,73,160,123,38.2,34,83,206,157,Dengue,Cystic Fibrosis,stable
+PAT0136,95,Male,0,130,93,58,38.1,20,94,192,51,Tuberculosis,Dengue,stable
+PAT0137,3,Female,1,107,108,86,34.1,25,90,161,129,Cystic Fibrosis,Lupus,recovered
+PAT0138,40,Other,1,83,96,86,38.9,33,81,206,146,Parkinson,Gastritis,stable
+PAT0139,85,Male,0,76,136,80,40.6,15,71,131,82,COPD,Gastritis,stable
+PAT0140,70,Other,1,94,96,75,37.0,37,95,165,93,Sickle Cell,Sickle Cell,stable
+PAT0141,1,Female,1,103,186,114,34.6,11,88,145,58,Epilepsy,Thalassemia,stable
+PAT0142,20,Female,0,89,90,85,39.4,14,77,173,127,Multiple Sclerosis,Bronchitis,stable
+PAT0143,54,Female,0,73,197,71,39.5,8,95,155,177,Arthritis,Thalassemia,stable
+PAT0144,82,Female,0,130,141,122,39.8,28,78,192,69,Heart Disease,Zika,recovered
+PAT0145,16,Male,0,138,140,92,38.5,32,76,154,160,Cystic Fibrosis,Gastritis,stable
+PAT0146,43,Male,0,143,181,61,36.7,19,96,168,46,None,AIDS,deteriorating
+PAT0147,73,Female,0,104,192,96,34.7,23,93,202,37,Sickle Cell,Cholera,recovered
+PAT0148,94,Female,0,130,166,129,40.4,32,87,208,41,Hepatitis,Measles,stable
+PAT0149,14,Male,0,75,184,75,34.3,17,85,190,174,Lupus,Cystic Fibrosis,stable
+PAT0150,22,Female,1,134,165,56,34.3,28,76,128,144,HIV/AIDS,Stroke,stable
+PAT0151,47,Male,1,108,166,88,37.4,34,79,136,43,Asthma,Multiple Sclerosis,stable
+PAT0152,30,Male,1,148,187,109,37.6,10,74,162,137,Lupus,Depression,stable
+PAT0153,38,Other,0,53,172,74,39.5,8,85,161,137,HIV/AIDS,Polio,recovered
+PAT0154,65,Female,0,148,121,83,34.2,30,82,132,47,None,Ebola,stable
+PAT0155,31,Other,1,148,118,95,36.6,37,86,181,45,Alzheimer,Parkinson,stable
+PAT0156,55,Female,1,59,109,74,36.5,27,74,184,32,Sickle Cell,Zika,recovered
+PAT0157,44,Other,1,79,193,117,39.4,12,94,167,102,Hepatitis,Zika,recovered
+PAT0158,14,Female,0,137,147,61,41.2,12,98,162,153,Cancer,Lupus,recovered
+PAT0159,69,Female,0,105,142,95,38.5,37,82,144,81,Chronic Kidney Disease,Multiple Sclerosis,stable
+PAT0160,3,Other,0,121,99,112,35.7,26,82,193,136,Chronic Kidney Disease,Multiple Sclerosis,recovered
+PAT0161,97,Female,0,139,120,52,40.2,12,74,173,76,Thalassemia,Ulcer,stable
+PAT0162,86,Male,0,58,178,69,41.5,36,96,154,111,Lupus,Gastritis,stable
+PAT0163,61,Female,0,137,82,81,37.5,20,93,208,102,Obesity,Measles,stable
+PAT0164,67,Male,1,147,90,105,36.0,35,98,128,105,None,Ulcer,stable
+PAT0165,41,Male,0,128,119,74,38.1,34,71,207,153,Lupus,COVID-19,deteriorating
+PAT0166,78,Female,1,121,84,97,37.7,13,74,179,57,Obesity,Arthritis,stable
+PAT0167,68,Male,0,130,193,89,40.6,37,98,177,96,Tuberculosis,Zika,stable
+PAT0168,55,Other,1,147,119,126,36.0,13,93,138,109,Lupus,AIDS,recovered
+PAT0169,39,Other,1,146,138,108,35.2,20,80,164,118,Dengue,Epilepsy,deteriorating
+PAT0170,52,Female,1,149,142,76,39.6,14,74,164,87,COPD,Multiple Sclerosis,stable
+PAT0171,30,Female,0,91,89,81,36.5,37,76,150,111,Alzheimer,Lupus,recovered
+PAT0172,99,Other,1,127,156,61,34.0,39,82,165,142,HIV/AIDS,Epilepsy,stable
+PAT0173,16,Female,1,144,177,109,34.1,20,72,189,103,Depression,AIDS,stable
+PAT0174,95,Other,1,112,107,109,35.3,12,98,141,177,Cystic Fibrosis,Ebola,stable
+PAT0175,95,Male,1,117,170,113,39.3,29,86,129,147,Epilepsy,Polio,deteriorating
+PAT0176,64,Other,1,139,199,99,41.4,22,98,195,154,Alzheimer,AIDS,recovered
+PAT0177,75,Other,0,78,90,82,36.4,22,88,194,87,Parkinson,Thalassemia,deteriorating
+PAT0178,86,Other,1,147,125,78,41.1,10,82,158,44,Hepatitis,Stroke,recovered
+PAT0179,28,Male,0,124,195,81,34.6,21,89,141,56,Hypertension,Migraine,stable
+PAT0180,66,Male,0,105,171,70,40.8,12,96,203,35,Epilepsy,Cancer,stable
+PAT0181,18,Female,0,118,82,50,36.4,13,84,153,93,Chronic Kidney Disease,Multiple Sclerosis,recovered
+PAT0182,24,Female,1,61,97,64,37.5,34,77,179,174,Chronic Kidney Disease,Zika,deteriorating
+PAT0183,92,Male,0,57,158,76,40.3,27,76,122,122,Multiple Sclerosis,Arthritis,deteriorating
+PAT0184,63,Female,1,102,103,109,41.3,27,83,134,46,HIV/AIDS,Sickle Cell,deteriorating
+PAT0185,83,Other,1,58,117,97,37.7,38,91,121,117,Hypertension,Multiple Sclerosis,deteriorating
+PAT0186,71,Male,0,113,156,121,37.5,37,87,157,61,Tuberculosis,Zika,deteriorating
+PAT0187,10,Male,0,138,112,90,34.3,29,88,207,70,HIV/AIDS,Stroke,stable
+PAT0188,16,Male,1,95,111,128,37.7,29,97,139,126,Parkinson,COVID-19,stable
+PAT0189,1,Female,0,82,184,126,34.6,20,89,145,179,Malaria,Bronchitis,stable
+PAT0190,65,Other,1,139,125,64,35.5,30,81,168,133,Lupus,Pneumonia,recovered
+PAT0191,74,Male,0,116,85,58,41.0,14,78,195,37,COPD,Pneumonia,stable
+PAT0192,71,Female,1,141,141,111,38.6,38,76,194,113,Parkinson,Thalassemia,recovered
+PAT0193,79,Female,1,55,137,71,37.4,10,78,179,135,Dengue,Cystic Fibrosis,deteriorating
+PAT0194,13,Other,0,131,197,61,35.9,20,94,164,151,Lupus,Zika,stable
+PAT0195,18,Male,0,149,124,57,40.5,28,92,151,80,Lupus,Multiple Sclerosis,stable
+PAT0196,43,Other,1,119,97,71,36.5,31,78,178,160,Sickle Cell,Ebola,deteriorating
+PAT0197,27,Other,1,84,140,103,34.2,8,76,195,78,Hypertension,Tuberculosis,stable
+PAT0198,93,Other,0,80,137,110,40.3,12,73,139,79,Malaria,Flu,stable
+PAT0199,48,Female,0,145,184,85,34.2,9,73,185,108,Diabetes,Cholera,stable
+PAT0200,33,Female,1,55,118,91,41.4,33,91,131,160,Asthma,Dengue,recovered
+PAT0201,17,Other,1,70,94,75,39.4,23,99,206,71,Epilepsy,Cystic Fibrosis,deteriorating
+PAT0202,43,Male,1,127,81,86,40.4,20,78,181,89,Multiple Sclerosis,Depression,recovered
+PAT0203,13,Female,1,138,163,51,34.7,24,96,208,57,Sickle Cell,Ebola,recovered
+PAT0204,65,Female,0,54,144,89,38.5,11,82,142,76,Epilepsy,Dengue,recovered
+PAT0205,30,Other,0,59,146,63,36.5,36,79,195,123,Chronic Kidney Disease,Cancer,recovered
+PAT0206,0,Male,0,69,87,92,41.1,32,91,203,57,Chronic Kidney Disease,Measles,stable
+PAT0207,36,Female,0,125,116,98,40.3,19,93,147,140,Parkinson,Parkinson,stable
+PAT0208,78,Female,1,110,99,127,34.4,38,74,139,55,Diabetes,Epilepsy,recovered
+PAT0209,28,Male,0,84,149,108,36.4,24,88,197,41,Depression,COVID-19,stable
+PAT0210,19,Female,0,137,122,99,41.3,14,93,162,67,Obesity,Migraine,recovered
+PAT0211,83,Other,0,94,131,129,41.0,35,92,127,114,Chronic Kidney Disease,Arthritis,deteriorating
+PAT0212,0,Male,0,57,108,54,41.2,22,71,184,84,Heart Disease,Ulcer,recovered
+PAT0213,89,Female,0,123,109,66,40.2,22,77,195,101,Alzheimer,Multiple Sclerosis,stable
+PAT0214,88,Female,1,117,112,50,35.6,23,83,172,77,Thalassemia,Cystic Fibrosis,stable
+PAT0215,68,Male,0,139,141,115,41.5,13,78,152,118,Heart Disease,Gastritis,stable
+PAT0216,47,Other,0,122,196,126,36.2,18,73,123,131,HIV/AIDS,Gastritis,stable
+PAT0217,18,Female,1,147,161,62,40.0,26,82,194,158,Depression,Arthritis,stable
+PAT0218,87,Female,1,103,150,64,38.7,33,76,134,178,Multiple Sclerosis,Arthritis,stable
+PAT0219,18,Other,1,142,168,82,35.8,24,72,163,131,Epilepsy,Migraine,stable
+PAT0220,89,Male,0,148,151,127,38.6,21,78,122,114,Asthma,Lupus,deteriorating
+PAT0221,25,Male,1,97,145,119,40.9,36,95,144,41,Multiple Sclerosis,Arthritis,recovered
+PAT0222,4,Other,1,97,116,128,38.0,22,80,167,116,Cancer,COVID-19,stable
+PAT0223,69,Female,1,92,188,70,35.5,30,85,166,146,Chronic Kidney Disease,Lupus,stable
+PAT0224,14,Other,0,85,154,100,34.5,28,82,205,48,Sickle Cell,Gastritis,recovered
+PAT0225,33,Male,1,117,191,101,39.0,36,84,147,64,COPD,Ulcer,stable
+PAT0226,7,Female,1,85,109,67,37.0,20,73,209,118,Diabetes,Cystic Fibrosis,stable
+PAT0227,93,Female,0,56,174,123,40.0,38,76,182,85,Hypertension,Asthma,stable
+PAT0228,41,Other,0,91,135,85,37.2,29,76,173,158,None,Sickle Cell,recovered
+PAT0229,43,Female,1,94,185,96,41.1,30,91,140,166,Asthma,Cholera,deteriorating
+PAT0230,25,Female,0,64,89,91,40.8,23,86,145,120,Depression,Epilepsy,stable
+PAT0231,36,Male,1,99,103,68,40.4,14,79,208,175,Hypertension,Migraine,recovered
+PAT0232,18,Female,1,123,176,104,38.4,22,86,152,148,Asthma,Zika,deteriorating
+PAT0233,20,Female,0,71,127,86,38.8,35,76,151,40,Heart Disease,Alzheimer,stable
+PAT0234,9,Male,0,127,156,106,37.7,9,72,126,114,None,Stroke,recovered
+PAT0235,17,Female,0,91,197,88,39.4,18,76,143,75,Heart Disease,Ulcer,deteriorating
+PAT0236,18,Female,1,139,181,91,40.8,20,83,155,126,Sickle Cell,Parkinson,recovered
+PAT0237,35,Male,0,122,87,119,36.7,11,82,168,89,Arthritis,Malaria,stable
+PAT0238,1,Female,1,54,123,76,38.8,15,75,191,79,COPD,Cholera,stable
+PAT0239,66,Female,1,93,137,52,35.4,9,92,163,31,COPD,Alzheimer,stable
+PAT0240,80,Other,0,147,166,79,36.5,29,81,177,65,Multiple Sclerosis,Pneumonia,recovered
+PAT0241,68,Male,0,142,110,96,35.5,23,79,181,150,Thalassemia,COVID-19,stable
+PAT0242,54,Male,1,61,96,65,39.0,27,72,135,59,Cancer,Ulcer,deteriorating
+PAT0243,22,Male,1,54,163,114,40.3,28,89,189,179,Cancer,AIDS,stable
+PAT0244,81,Other,1,81,112,65,37.8,27,71,133,65,Sickle Cell,Epilepsy,stable
+PAT0245,96,Male,0,115,184,51,41.0,16,70,194,96,COPD,Cystic Fibrosis,stable
+PAT0246,51,Female,1,72,105,117,40.6,13,72,141,172,Heart Disease,Thalassemia,stable
+PAT0247,85,Female,1,61,190,98,34.9,25,82,154,163,Thalassemia,Alzheimer,stable
+PAT0248,66,Male,1,56,131,63,34.6,28,72,185,120,Hepatitis,Pneumonia,stable
+PAT0249,1,Other,0,131,157,69,38.3,17,94,185,54,None,Polio,stable
+PAT0250,53,Male,0,85,174,63,35.0,23,91,171,160,Heart Disease,Asthma,deteriorating
+PAT0251,98,Female,0,55,104,62,36.8,15,90,187,54,Sickle Cell,Lupus,recovered
+PAT0252,78,Female,1,94,139,61,41.2,39,97,132,60,Epilepsy,Pneumonia,stable
+PAT0253,77,Female,1,67,172,109,40.4,39,98,162,159,Lupus,Malaria,recovered
+PAT0254,59,Other,0,132,110,54,39.9,17,94,121,155,Alzheimer,Epilepsy,stable
+PAT0255,10,Other,1,80,135,128,41.4,26,78,140,102,Hypertension,Measles,stable
+PAT0256,27,Female,1,56,159,65,34.5,11,73,159,46,Sickle Cell,Migraine,deteriorating
+PAT0257,51,Male,0,101,115,87,37.2,38,74,182,91,Cystic Fibrosis,Zika,recovered
+PAT0258,98,Other,0,76,171,63,35.3,36,91,124,159,Diabetes,Multiple Sclerosis,stable
+PAT0259,61,Female,0,70,197,128,38.4,30,95,158,162,Parkinson,Asthma,recovered
+PAT0260,64,Male,0,134,169,102,40.0,20,73,200,168,Depression,Depression,stable
+PAT0261,62,Female,0,101,134,75,35.0,9,89,201,71,Cancer,Alzheimer,stable
+PAT0262,20,Female,1,62,192,113,39.9,16,78,120,159,Heart Disease,Epilepsy,stable
+PAT0263,59,Female,1,78,176,59,41.0,39,97,140,57,Obesity,Thalassemia,deteriorating
+PAT0264,74,Male,0,83,87,108,37.4,24,84,136,116,Obesity,Dengue,stable
+PAT0265,87,Female,0,132,148,81,41.4,30,74,127,106,Cystic Fibrosis,Malaria,recovered
+PAT0266,71,Other,0,136,122,50,34.5,31,72,143,46,Hypertension,Hepatitis,deteriorating
+PAT0267,4,Female,1,70,183,107,37.5,11,80,171,172,Obesity,Pneumonia,recovered
+PAT0268,82,Female,0,77,130,107,34.7,37,91,127,93,Arthritis,Zika,recovered
+PAT0269,9,Other,1,145,191,57,39.8,32,78,185,78,Alzheimer,Hepatitis,stable
+PAT0270,35,Male,1,117,157,90,41.2,30,99,129,178,Arthritis,Tuberculosis,stable
+PAT0271,35,Female,1,140,183,51,38.5,28,85,151,61,Thalassemia,Hepatitis,recovered
+PAT0272,97,Male,0,59,94,66,41.0,30,78,144,88,Chronic Kidney Disease,Arthritis,deteriorating
+PAT0273,77,Female,1,138,193,71,36.1,27,90,163,61,Epilepsy,Measles,stable
+PAT0274,50,Male,1,70,178,81,36.4,14,86,131,47,Diabetes,Sickle Cell,stable
+PAT0275,20,Male,0,70,87,95,39.5,14,92,194,115,Lupus,Bronchitis,stable
+PAT0276,21,Male,0,138,101,78,39.5,9,98,204,56,Alzheimer,Dengue,deteriorating
+PAT0277,49,Male,0,128,194,72,40.3,20,91,162,126,Epilepsy,Pneumonia,stable
+PAT0278,55,Male,0,112,197,68,35.1,37,76,144,157,Depression,Polio,recovered
+PAT0279,7,Other,1,107,95,121,35.9,12,72,184,161,Lupus,Migraine,stable
+PAT0280,98,Female,1,113,185,59,39.6,21,76,146,95,Depression,Ulcer,stable
+PAT0281,40,Male,1,62,88,85,34.0,33,95,173,41,Dengue,COVID-19,recovered
+PAT0282,80,Other,1,63,113,102,36.8,18,85,189,85,Multiple Sclerosis,Measles,deteriorating
+PAT0283,82,Male,0,107,83,53,39.4,31,91,145,66,Chronic Kidney Disease,Multiple Sclerosis,recovered
+PAT0284,84,Female,1,70,153,87,35.3,35,94,164,49,Obesity,Polio,recovered
+PAT0285,16,Female,0,120,83,63,39.4,12,85,177,84,Diabetes,Gastritis,recovered
+PAT0286,3,Other,1,73,113,79,40.0,38,97,179,176,Parkinson,Thalassemia,stable
+PAT0287,48,Male,0,132,101,73,36.5,37,95,150,129,Epilepsy,Arthritis,stable
+PAT0288,63,Female,0,97,124,104,39.5,8,87,182,145,Alzheimer,Multiple Sclerosis,stable
+PAT0289,91,Female,0,96,154,106,41.0,20,70,136,33,Obesity,Cholera,deteriorating
+PAT0290,19,Other,1,96,170,64,37.1,21,97,194,132,HIV/AIDS,Alzheimer,stable
+PAT0291,8,Female,1,65,148,110,41.3,10,82,189,110,Hypertension,Cancer,recovered
+PAT0292,50,Other,0,68,121,84,37.2,26,74,183,78,Dengue,Malaria,recovered
+PAT0293,20,Other,1,113,84,119,38.7,37,76,158,158,None,Epilepsy,recovered
+PAT0294,23,Male,0,149,149,90,35.2,35,81,179,86,Arthritis,Alzheimer,stable
+PAT0295,30,Male,1,73,168,85,34.1,31,81,149,115,Epilepsy,Pneumonia,stable
+PAT0296,91,Female,0,84,134,63,35.9,23,85,173,135,Diabetes,Lupus,deteriorating
+PAT0297,88,Other,0,119,123,122,37.7,31,80,203,111,None,Flu,stable
+PAT0298,56,Female,0,117,129,82,39.8,13,84,201,177,Obesity,Parkinson,stable
+PAT0299,87,Other,0,97,150,70,34.4,19,93,133,86,Heart Disease,Cholera,stable
+PAT0300,36,Other,1,70,161,118,38.9,33,74,207,78,Alzheimer,Malaria,recovered
+PAT0301,18,Other,0,138,164,61,36.6,16,70,169,146,Lupus,Measles,recovered
+PAT0302,67,Other,0,120,165,82,37.9,36,98,147,72,Hypertension,Parkinson,deteriorating
+PAT0303,40,Other,0,135,128,66,38.6,21,75,184,103,Cystic Fibrosis,Polio,stable
+PAT0304,84,Male,0,51,101,106,39.0,9,85,170,154,Multiple Sclerosis,Flu,stable
+PAT0305,38,Male,1,125,167,89,34.8,34,79,183,92,Thalassemia,Cystic Fibrosis,recovered
+PAT0306,48,Female,1,81,86,70,35.2,38,73,205,172,Cancer,Cystic Fibrosis,stable
+PAT0307,84,Male,0,135,195,63,35.8,16,77,177,57,Hypertension,Cancer,recovered
+PAT0308,25,Female,0,112,145,74,34.7,10,77,163,126,Malaria,Tuberculosis,stable
+PAT0309,41,Male,1,148,85,88,38.9,32,96,169,176,Arthritis,Dengue,stable
+PAT0310,68,Male,0,60,199,61,37.9,31,97,160,114,Cancer,Bronchitis,deteriorating
+PAT0311,71,Female,0,58,126,64,40.9,15,87,161,89,Sickle Cell,Thalassemia,stable
+PAT0312,83,Other,1,61,81,56,38.6,20,72,146,143,None,Ulcer,stable
+PAT0313,39,Female,1,82,171,50,34.3,15,74,151,153,Epilepsy,Migraine,stable
+PAT0314,47,Female,0,53,173,119,41.3,26,78,131,168,COPD,Thalassemia,stable
+PAT0315,45,Male,0,65,80,112,37.6,28,90,149,42,Epilepsy,Tuberculosis,recovered
+PAT0316,33,Female,1,77,181,108,35.2,34,74,144,160,Thalassemia,Dengue,stable
+PAT0317,96,Female,1,74,99,83,35.6,37,74,180,38,COPD,COVID-19,recovered
+PAT0318,49,Female,1,132,139,93,41.4,9,84,192,160,Asthma,Ulcer,stable
+PAT0319,75,Female,1,79,169,70,34.8,33,99,152,63,Parkinson,Gastritis,recovered
+PAT0320,40,Female,0,96,161,107,38.6,30,85,141,46,Diabetes,Zika,stable
+PAT0321,68,Female,1,60,173,64,35.9,8,89,135,95,Diabetes,Alzheimer,recovered
+PAT0322,98,Other,1,77,126,88,35.3,27,97,120,116,Hypertension,Polio,stable
+PAT0323,62,Female,0,53,137,74,35.6,22,90,176,146,COPD,Multiple Sclerosis,recovered
+PAT0324,52,Other,1,63,179,125,35.7,16,72,196,144,Malaria,Ulcer,stable
+PAT0325,96,Other,1,140,102,108,34.8,31,83,157,171,Chronic Kidney Disease,Thalassemia,recovered
+PAT0326,99,Other,0,121,141,84,37.1,38,83,203,142,Cystic Fibrosis,Zika,deteriorating
+PAT0327,24,Male,1,137,93,75,41.2,29,85,202,139,Thalassemia,Sickle Cell,deteriorating
+PAT0328,50,Female,0,91,98,122,40.3,20,76,197,92,Hypertension,Alzheimer,stable
+PAT0329,72,Male,0,68,126,63,35.6,28,98,155,59,Heart Disease,Polio,stable
+PAT0330,8,Other,1,82,199,101,36.3,18,90,178,107,Hepatitis,Bronchitis,stable
+PAT0331,93,Other,0,117,147,57,40.6,36,83,205,149,Malaria,Depression,stable
+PAT0332,54,Female,1,142,141,97,34.3,10,80,183,79,Cancer,Migraine,recovered
+PAT0333,84,Female,0,70,148,97,40.2,10,81,152,166,COPD,Lupus,recovered
+PAT0334,67,Male,0,130,177,114,34.2,30,84,159,105,Epilepsy,Flu,deteriorating
+PAT0335,53,Male,1,95,126,64,38.5,33,89,141,50,Cystic Fibrosis,Lupus,stable
+PAT0336,50,Female,1,69,108,100,35.8,14,97,147,33,Alzheimer,Tuberculosis,deteriorating
+PAT0337,21,Female,1,94,146,115,36.0,34,92,120,101,Diabetes,Migraine,stable
+PAT0338,86,Female,1,55,165,74,34.0,36,81,125,56,Malaria,Thalassemia,recovered
+PAT0339,7,Female,0,114,136,89,37.5,23,82,203,85,Parkinson,Malaria,recovered
+PAT0340,48,Female,0,110,181,98,34.1,37,77,162,177,Asthma,Thalassemia,stable
+PAT0341,96,Male,1,88,164,98,35.6,17,80,173,155,Sickle Cell,Measles,recovered
+PAT0342,8,Female,1,86,128,90,40.1,28,88,178,70,Sickle Cell,Ulcer,stable
+PAT0343,38,Other,0,113,90,68,37.4,38,83,164,30,Epilepsy,Polio,recovered
+PAT0344,39,Other,1,68,155,121,40.8,28,82,131,74,Hepatitis,Pneumonia,deteriorating
+PAT0345,89,Male,0,141,148,57,40.5,21,92,149,113,COPD,Epilepsy,deteriorating
+PAT0346,81,Male,1,115,147,82,37.4,25,74,138,113,Alzheimer,Stroke,stable
+PAT0347,96,Female,1,64,120,88,37.1,36,78,193,80,Cystic Fibrosis,Lupus,stable
+PAT0348,74,Other,0,59,93,100,40.8,32,76,147,32,Hepatitis,Alzheimer,recovered
+PAT0349,83,Male,1,76,196,51,38.0,10,85,159,31,Hepatitis,Sickle Cell,deteriorating
+PAT0350,80,Female,0,61,114,114,34.6,22,95,204,91,Sickle Cell,Dengue,recovered
+PAT0351,48,Female,0,144,104,72,40.1,13,97,140,136,Hypertension,Cystic Fibrosis,stable
+PAT0352,17,Female,1,148,124,122,36.3,33,99,179,137,Epilepsy,Ulcer,recovered
+PAT0353,97,Male,1,116,146,77,38.3,16,92,194,77,Cystic Fibrosis,Tuberculosis,stable
+PAT0354,31,Other,1,106,197,82,37.9,9,93,147,36,Malaria,Asthma,stable
+PAT0355,67,Male,0,105,144,114,41.1,26,98,193,175,Asthma,Cholera,recovered
+PAT0356,91,Male,0,92,190,60,36.3,13,74,127,145,Cystic Fibrosis,COVID-19,stable
+PAT0357,55,Other,1,114,110,53,35.3,25,74,149,149,Diabetes,Asthma,recovered
+PAT0358,87,Male,0,116,154,94,36.9,34,83,183,80,None,Ebola,stable
+PAT0359,49,Male,1,108,94,79,35.0,33,98,156,153,Alzheimer,COVID-19,stable
+PAT0360,34,Male,0,55,147,67,40.2,24,98,196,88,Obesity,Multiple Sclerosis,deteriorating
+PAT0361,46,Other,1,66,188,71,38.1,12,78,168,170,Diabetes,Migraine,recovered
+PAT0362,33,Male,0,135,132,100,36.7,9,82,170,114,None,Arthritis,stable
+PAT0363,45,Male,0,70,123,60,38.2,26,70,182,53,Asthma,Thalassemia,recovered
+PAT0364,98,Male,0,147,90,100,39.9,10,97,201,133,Diabetes,Tuberculosis,recovered
+PAT0365,85,Male,0,73,98,86,39.5,15,97,124,174,Parkinson,Cancer,deteriorating
+PAT0366,35,Female,1,68,143,60,36.7,22,81,140,168,Hypertension,Stroke,recovered
+PAT0367,91,Other,0,130,135,69,37.5,33,81,189,46,Asthma,Lupus,deteriorating
+PAT0368,18,Female,1,97,187,101,40.5,38,92,194,172,Malaria,Depression,stable
+PAT0369,26,Female,0,113,194,100,40.7,34,87,170,33,Arthritis,Ulcer,recovered
+PAT0370,6,Male,0,84,127,122,34.4,20,86,200,142,Multiple Sclerosis,Ebola,recovered
+PAT0371,96,Other,1,121,98,112,40.6,34,74,132,60,Arthritis,Gastritis,stable
+PAT0372,79,Male,1,145,101,92,40.5,17,79,183,155,Hypertension,Epilepsy,recovered
+PAT0373,20,Female,1,125,145,90,36.1,31,99,176,76,Cystic Fibrosis,Pneumonia,stable
+PAT0374,34,Female,0,57,105,120,34.0,10,70,155,54,Heart Disease,Measles,deteriorating
+PAT0375,36,Other,0,64,116,62,39.7,12,97,192,156,None,Flu,deteriorating
+PAT0376,0,Other,1,84,145,112,34.7,16,71,165,157,Thalassemia,Alzheimer,stable
+PAT0377,3,Female,1,144,181,124,36.6,10,83,179,63,Dengue,Parkinson,stable
+PAT0378,44,Female,0,132,181,65,39.1,24,92,153,153,Arthritis,Parkinson,stable
+PAT0379,15,Other,1,109,145,115,39.3,31,84,150,63,Asthma,Cholera,stable
+PAT0380,38,Other,0,57,166,127,35.1,30,96,172,68,Multiple Sclerosis,Cholera,stable
+PAT0381,64,Female,0,79,132,62,38.5,28,88,176,54,HIV/AIDS,Dengue,stable
+PAT0382,85,Female,0,130,134,72,40.5,17,79,191,83,Dengue,Dengue,recovered
+PAT0383,51,Female,1,81,193,63,37.5,21,89,172,108,Hepatitis,Cancer,stable
+PAT0384,21,Female,1,112,83,126,40.9,15,87,131,148,None,Thalassemia,recovered
+PAT0385,30,Male,1,83,161,124,36.0,24,84,176,122,Heart Disease,Zika,deteriorating
+PAT0386,25,Female,1,145,165,87,40.7,31,87,127,163,Asthma,Lupus,recovered
+PAT0387,68,Male,1,113,108,77,34.8,8,80,138,166,Alzheimer,Asthma,stable
+PAT0388,26,Other,1,93,147,64,41.1,26,86,189,141,Alzheimer,Cancer,stable
+PAT0389,55,Female,1,100,116,66,39.2,33,98,152,89,Malaria,Cholera,stable
+PAT0390,90,Female,0,104,89,96,35.3,28,80,132,130,Multiple Sclerosis,Asthma,recovered
+PAT0391,32,Other,1,60,96,117,39.3,37,78,140,113,COPD,Tuberculosis,deteriorating
+PAT0392,82,Other,0,61,116,91,34.8,29,85,147,70,Tuberculosis,Stroke,stable
+PAT0393,98,Male,0,67,157,120,39.8,25,74,132,129,Asthma,Tuberculosis,recovered
+PAT0394,30,Female,1,65,88,122,40.5,29,93,205,129,Asthma,Multiple Sclerosis,stable
+PAT0395,86,Male,0,83,88,57,38.9,25,72,147,99,Hepatitis,Cholera,stable
+PAT0396,43,Other,0,77,183,103,35.5,11,90,132,86,Sickle Cell,Thalassemia,stable
+PAT0397,48,Male,1,103,89,102,36.0,28,79,165,42,Sickle Cell,Polio,stable
+PAT0398,36,Other,1,73,81,63,37.1,32,72,136,41,Chronic Kidney Disease,AIDS,deteriorating
+PAT0399,53,Other,1,73,108,92,40.6,33,97,209,94,COPD,Polio,stable
+PAT0400,83,Male,0,77,95,96,35.6,35,95,195,56,Cancer,Cholera,deteriorating
+PAT0401,52,Other,1,108,126,83,35.4,14,90,144,62,Dengue,Flu,deteriorating
+PAT0402,54,Other,1,56,195,106,36.8,23,85,162,146,Diabetes,Flu,recovered
+PAT0403,99,Male,0,56,179,100,34.2,18,77,206,74,Dengue,Dengue,stable
+PAT0404,85,Male,0,53,183,116,39.3,36,71,147,108,Malaria,Gastritis,recovered
+PAT0405,86,Other,1,139,83,58,35.8,31,89,169,104,Sickle Cell,Flu,recovered
+PAT0406,14,Male,1,77,101,66,35.7,19,76,176,55,Cancer,Multiple Sclerosis,stable
+PAT0407,24,Other,1,94,162,60,41.4,15,77,187,124,Heart Disease,Migraine,stable
+PAT0408,27,Female,0,114,128,96,40.9,31,91,179,86,Depression,Parkinson,stable
+PAT0409,46,Female,0,95,193,75,35.1,12,89,171,134,Tuberculosis,Multiple Sclerosis,stable
+PAT0410,74,Female,1,103,112,99,36.3,9,84,180,151,Hepatitis,Pneumonia,stable
+PAT0411,20,Other,1,118,85,87,41.0,37,87,197,75,Parkinson,Epilepsy,stable
+PAT0412,12,Female,0,143,82,55,37.3,19,82,152,104,Hypertension,Ulcer,stable
+PAT0413,76,Other,1,60,174,77,38.9,16,85,187,128,Hypertension,AIDS,stable
+PAT0414,47,Male,1,113,138,111,38.3,18,74,208,47,None,Multiple Sclerosis,stable
+PAT0415,18,Female,0,104,181,75,34.1,19,88,148,88,Asthma,AIDS,stable
+PAT0416,97,Female,0,92,196,129,41.3,30,77,132,135,Cancer,Stroke,stable
+PAT0417,7,Other,1,145,179,114,37.4,24,96,203,117,HIV/AIDS,Depression,stable
+PAT0418,85,Other,0,135,123,58,40.3,11,74,147,133,Malaria,Flu,stable
+PAT0419,65,Other,0,121,127,71,37.2,32,98,186,137,Hypertension,Dengue,deteriorating
+PAT0420,12,Male,0,59,179,58,35.2,30,96,153,158,Obesity,Alzheimer,stable
+PAT0421,31,Female,0,142,150,116,36.9,28,99,154,128,Lupus,Sickle Cell,stable
+PAT0422,90,Male,1,127,96,67,41.4,36,89,172,120,Dengue,AIDS,recovered
+PAT0423,81,Male,1,114,193,50,35.4,20,89,206,39,Sickle Cell,Hepatitis,recovered
+PAT0424,58,Female,0,90,184,54,34.3,24,91,160,97,Heart Disease,Dengue,recovered
+PAT0425,68,Male,1,60,135,100,37.2,19,95,138,138,Hepatitis,Alzheimer,stable
+PAT0426,59,Male,0,96,198,120,40.3,12,90,197,161,Dengue,Cholera,stable
+PAT0427,22,Female,1,133,94,57,35.4,26,85,165,97,HIV/AIDS,Cancer,recovered
+PAT0428,14,Male,0,86,80,116,34.7,34,77,182,53,Arthritis,Sickle Cell,deteriorating
+PAT0429,23,Other,1,53,146,83,40.6,30,90,142,138,Tuberculosis,Measles,recovered
+PAT0430,68,Female,0,102,141,90,34.0,32,97,173,99,Multiple Sclerosis,Zika,stable
+PAT0431,56,Male,1,89,86,87,34.1,27,72,170,115,HIV/AIDS,Pneumonia,deteriorating
+PAT0432,46,Male,1,141,155,87,39.5,11,84,160,170,Cancer,Parkinson,deteriorating
+PAT0433,86,Other,1,99,109,111,40.1,23,96,170,155,Heart Disease,Bronchitis,recovered
+PAT0434,46,Other,1,149,118,65,39.7,28,91,140,45,Depression,Hepatitis,recovered
+PAT0435,58,Other,0,80,121,123,34.2,9,99,128,168,Epilepsy,Thalassemia,recovered
+PAT0436,95,Other,1,135,96,117,41.1,22,94,140,130,Thalassemia,Sickle Cell,recovered
+PAT0437,64,Female,0,138,130,85,41.3,38,93,185,133,Thalassemia,Cancer,deteriorating
+PAT0438,14,Male,1,88,149,50,34.9,33,76,176,110,Depression,Hepatitis,stable
+PAT0439,33,Female,0,90,172,122,36.6,13,89,171,32,Parkinson,Asthma,stable
+PAT0440,80,Male,0,98,155,96,37.3,39,70,200,44,COPD,Hepatitis,stable
+PAT0441,99,Male,1,145,147,67,34.1,18,89,154,107,Malaria,Zika,stable
+PAT0442,57,Other,0,63,113,110,34.7,31,96,148,112,Heart Disease,Parkinson,stable
+PAT0443,5,Female,0,146,128,89,34.4,8,74,146,109,Epilepsy,Alzheimer,stable
+PAT0444,5,Other,1,62,191,113,39.4,26,81,199,152,Hypertension,Hepatitis,recovered
+PAT0445,42,Other,1,138,99,117,38.7,9,93,141,144,Thalassemia,COVID-19,stable
+PAT0446,56,Female,0,121,86,127,38.7,10,87,135,112,Arthritis,Stroke,recovered
+PAT0447,50,Female,1,129,151,61,36.2,18,74,146,169,Asthma,Ebola,recovered
+PAT0448,16,Female,1,146,84,106,40.6,12,91,178,62,Lupus,Flu,stable
+PAT0449,61,Male,1,68,165,118,34.5,37,84,158,62,Hypertension,Ulcer,recovered
+PAT0450,12,Female,1,103,86,128,34.9,30,88,173,177,Arthritis,Depression,stable
+PAT0451,28,Female,1,131,142,123,40.9,15,95,181,46,Malaria,Polio,stable
+PAT0452,65,Female,1,107,148,77,37.0,12,87,209,100,Obesity,Thalassemia,stable
+PAT0453,2,Other,1,147,168,84,36.0,35,93,193,51,Thalassemia,Cancer,deteriorating
+PAT0454,25,Male,0,104,118,78,40.9,27,96,160,177,Alzheimer,Thalassemia,stable
+PAT0455,18,Female,1,148,190,115,36.0,9,91,186,163,Multiple Sclerosis,Cholera,stable
+PAT0456,78,Other,0,59,152,97,38.4,34,73,178,31,None,Cancer,deteriorating
+PAT0457,28,Other,1,114,162,75,37.4,28,84,178,179,None,Polio,stable
+PAT0458,50,Other,1,70,199,71,38.7,37,94,147,142,Lupus,Thalassemia,stable
+PAT0459,44,Other,1,56,128,58,37.4,8,79,155,102,Lupus,Flu,stable
+PAT0460,45,Female,1,81,111,55,41.3,24,79,146,83,Thalassemia,Ebola,stable
+PAT0461,49,Male,0,134,104,77,40.5,11,98,192,176,Cystic Fibrosis,Cystic Fibrosis,recovered
+PAT0462,91,Other,0,92,120,91,39.3,20,77,158,142,Cystic Fibrosis,Polio,stable
+PAT0463,22,Other,0,145,131,96,34.2,8,94,188,72,Cystic Fibrosis,Dengue,stable
+PAT0464,47,Male,1,89,154,110,37.2,37,95,152,104,Malaria,Gastritis,deteriorating
+PAT0465,15,Male,1,143,127,59,40.6,38,88,155,92,Obesity,Multiple Sclerosis,stable
+PAT0466,76,Male,1,95,82,123,37.9,30,93,127,102,None,Stroke,deteriorating
+PAT0467,5,Male,0,138,118,109,36.8,29,74,128,111,Arthritis,Multiple Sclerosis,stable
+PAT0468,55,Other,0,134,81,110,40.6,34,97,159,143,Arthritis,Asthma,stable
+PAT0469,36,Other,0,141,97,112,36.2,18,95,176,33,None,Parkinson,stable
+PAT0470,85,Male,1,56,140,103,34.2,35,84,120,84,Cancer,Zika,stable
+PAT0471,2,Other,1,87,193,50,40.9,28,85,148,162,Cancer,Lupus,stable
+PAT0472,73,Female,1,70,193,120,39.4,22,89,202,64,Malaria,Thalassemia,recovered
+PAT0473,67,Female,0,50,147,61,35.9,31,79,142,50,Sickle Cell,Gastritis,recovered
+PAT0474,60,Female,0,101,167,74,40.2,21,92,124,65,HIV/AIDS,Arthritis,stable
+PAT0475,48,Female,1,107,118,129,40.6,28,98,128,35,Tuberculosis,Tuberculosis,stable
+PAT0476,34,Other,0,71,120,54,39.1,24,81,206,86,Epilepsy,Hepatitis,recovered
+PAT0477,85,Female,0,78,190,86,37.1,39,83,142,74,Arthritis,Depression,stable
+PAT0478,16,Male,0,134,145,55,39.9,37,91,152,155,Tuberculosis,Ebola,stable
+PAT0479,31,Female,1,127,89,85,34.9,17,97,130,76,Hypertension,Sickle Cell,stable
+PAT0480,18,Female,1,64,107,73,38.6,36,78,166,62,Alzheimer,Polio,deteriorating
+PAT0481,61,Other,0,68,146,123,37.1,17,70,148,127,Asthma,Gastritis,deteriorating
+PAT0482,12,Male,1,50,113,97,41.1,23,86,183,90,Chronic Kidney Disease,Hepatitis,recovered
+PAT0483,28,Male,0,137,105,66,35.5,12,95,168,36,Hepatitis,Flu,recovered
+PAT0484,57,Male,0,102,144,111,39.9,32,96,122,58,Epilepsy,Measles,stable
+PAT0485,31,Male,1,65,104,103,39.4,31,93,184,122,Hepatitis,Asthma,stable
+PAT0486,85,Female,1,90,194,100,36.1,14,83,148,112,HIV/AIDS,Malaria,recovered
+PAT0487,18,Female,1,90,124,64,37.5,28,83,149,86,HIV/AIDS,AIDS,stable
+PAT0488,17,Male,0,97,145,57,40.6,19,84,176,133,Lupus,Sickle Cell,stable
+PAT0489,35,Male,0,141,195,106,41.4,25,71,196,74,None,Asthma,stable
+PAT0490,78,Female,1,113,172,116,35.7,29,83,183,69,Lupus,Zika,deteriorating
+PAT0491,58,Other,0,111,83,109,39.4,33,80,149,159,Depression,Hepatitis,stable
+PAT0492,61,Male,1,98,88,80,40.0,36,93,198,77,Diabetes,Migraine,stable
+PAT0493,24,Male,1,57,152,107,39.9,20,99,158,87,Alzheimer,Lupus,stable
+PAT0494,80,Female,0,132,143,93,39.6,14,97,128,156,Asthma,Multiple Sclerosis,stable
+PAT0495,91,Female,1,78,137,66,35.9,38,72,140,93,Asthma,Asthma,stable
+PAT0496,89,Other,1,135,141,91,36.3,36,82,130,83,Sickle Cell,Hepatitis,deteriorating
+PAT0497,15,Female,1,108,136,89,38.5,9,99,195,167,Sickle Cell,Arthritis,deteriorating
+PAT0498,43,Other,0,128,159,51,35.0,26,95,142,175,Parkinson,Ulcer,recovered
+PAT0499,61,Female,1,111,117,116,41.0,37,98,120,178,Hepatitis,AIDS,stable
+PAT0500,12,Male,0,149,86,71,34.5,28,84,198,161,Parkinson,Dengue,deteriorating
+PAT0501,95,Other,0,119,167,125,35.1,15,70,156,92,Heart Disease,Depression,recovered
+PAT0502,21,Male,1,70,175,84,40.2,35,93,165,163,Arthritis,Arthritis,stable
+PAT0503,88,Other,1,108,199,78,37.3,20,75,137,31,Alzheimer,AIDS,stable
+PAT0504,7,Female,0,146,133,87,34.7,27,81,162,60,Hypertension,Sickle Cell,stable
+PAT0505,90,Female,1,110,153,116,41.5,10,84,135,42,Chronic Kidney Disease,Lupus,deteriorating
+PAT0506,34,Male,1,124,138,70,39.9,18,99,167,64,Malaria,Ulcer,recovered
+PAT0507,85,Other,1,80,157,73,38.7,39,73,151,128,Asthma,Multiple Sclerosis,stable
+PAT0508,2,Female,1,118,164,59,36.9,11,98,148,156,None,Asthma,stable
+PAT0509,18,Female,0,115,153,110,36.9,27,85,202,116,Thalassemia,Bronchitis,recovered
+PAT0510,23,Other,0,147,134,77,38.0,34,74,170,178,Epilepsy,Cystic Fibrosis,stable
+PAT0511,11,Male,1,53,197,91,39.4,32,83,194,61,None,Flu,recovered
+PAT0512,10,Female,0,67,106,104,40.5,31,92,194,50,Hypertension,Gastritis,stable
+PAT0513,43,Male,0,136,120,108,39.2,16,91,193,179,Hypertension,Cancer,recovered
+PAT0514,82,Other,0,113,150,53,37.1,15,81,141,122,Dengue,Zika,stable
+PAT0515,45,Female,1,99,99,99,39.8,30,96,162,41,Hypertension,Multiple Sclerosis,stable
+PAT0516,39,Female,1,69,173,87,38.0,31,95,132,95,Malaria,Cholera,recovered
+PAT0517,36,Other,0,115,115,103,38.4,15,81,159,72,Obesity,Migraine,deteriorating
+PAT0518,21,Female,1,57,108,89,35.7,24,89,174,173,Hepatitis,Measles,stable
+PAT0519,45,Female,1,56,159,94,41.3,31,85,146,117,Dengue,Cancer,recovered
+PAT0520,72,Female,0,100,163,86,40.7,22,92,176,37,Lupus,Epilepsy,stable
+PAT0521,78,Other,0,143,189,69,36.6,28,92,131,46,Chronic Kidney Disease,Ebola,deteriorating
+PAT0522,63,Female,1,143,108,68,38.1,9,87,190,137,Heart Disease,Dengue,stable
+PAT0523,57,Male,1,69,129,59,34.6,22,74,203,160,Alzheimer,Gastritis,stable
+PAT0524,36,Male,1,89,151,89,34.1,30,77,130,139,Obesity,Thalassemia,stable
+PAT0525,63,Female,1,142,173,105,35.0,14,97,168,154,Sickle Cell,Cystic Fibrosis,stable
+PAT0526,12,Other,1,85,180,75,40.1,38,87,183,156,Epilepsy,Tuberculosis,stable
+PAT0527,87,Other,0,136,101,51,40.2,18,97,165,125,Malaria,Parkinson,recovered
+PAT0528,61,Female,0,113,181,59,37.8,21,93,163,141,Thalassemia,Ebola,recovered
+PAT0529,59,Male,1,136,96,114,37.4,38,79,176,135,Cystic Fibrosis,Sickle Cell,stable
+PAT0530,52,Other,1,147,88,71,39.4,23,87,195,174,Multiple Sclerosis,Thalassemia,deteriorating
+PAT0531,14,Male,1,64,158,112,34.9,20,86,151,166,None,Cholera,stable
+PAT0532,39,Female,1,139,170,126,39.6,38,81,163,67,Hypertension,Stroke,deteriorating
+PAT0533,82,Other,1,120,178,97,37.1,30,76,187,118,Malaria,Tuberculosis,stable
+PAT0534,95,Other,1,62,188,55,38.3,32,97,209,43,Hypertension,Parkinson,deteriorating
+PAT0535,94,Female,1,53,118,121,36.8,39,96,182,149,Malaria,Tuberculosis,stable
+PAT0536,91,Male,0,143,146,77,37.7,29,71,199,179,Parkinson,Stroke,stable
+PAT0537,95,Female,0,87,151,121,36.8,13,83,151,128,Obesity,Sickle Cell,stable
+PAT0538,9,Male,0,108,155,98,39.5,36,74,181,81,Diabetes,Lupus,deteriorating
+PAT0539,88,Other,0,90,110,71,39.6,20,79,168,49,Dengue,Polio,stable
+PAT0540,76,Female,0,103,115,50,36.6,24,93,177,101,Chronic Kidney Disease,Cystic Fibrosis,stable
+PAT0541,90,Other,0,72,125,121,35.6,33,84,178,42,COPD,Cystic Fibrosis,recovered
+PAT0542,38,Female,0,77,168,110,35.2,9,91,201,174,Tuberculosis,Pneumonia,deteriorating
+PAT0543,29,Male,0,62,175,62,39.1,37,90,174,110,Epilepsy,Bronchitis,recovered
+PAT0544,39,Female,0,64,152,101,37.8,38,90,206,157,Heart Disease,Ebola,stable
+PAT0545,51,Female,1,82,136,101,41.0,22,70,163,104,Cystic Fibrosis,Tuberculosis,recovered
+PAT0546,97,Other,1,58,111,64,37.5,20,83,176,165,Alzheimer,Gastritis,recovered
+PAT0547,71,Male,0,111,91,114,38.6,17,99,130,132,Lupus,Cystic Fibrosis,recovered
+PAT0548,42,Other,0,66,176,81,38.2,28,90,159,85,Cancer,Ebola,stable
+PAT0549,5,Male,1,99,181,86,39.6,26,91,191,144,Asthma,COVID-19,recovered
+PAT0550,10,Male,1,98,100,115,39.0,26,76,147,46,Depression,AIDS,stable
+PAT0551,5,Other,0,105,181,77,40.4,30,74,187,72,Malaria,Hepatitis,recovered
+PAT0552,35,Other,1,62,131,107,39.4,16,73,179,112,None,Parkinson,recovered
+PAT0553,57,Male,1,148,189,105,37.3,8,79,201,77,COPD,Malaria,recovered
+PAT0554,39,Other,0,112,155,121,41.0,25,73,157,166,Depression,Depression,stable
+PAT0555,15,Female,1,125,110,63,37.4,38,71,186,147,Parkinson,Flu,deteriorating
+PAT0556,72,Female,1,69,143,59,35.3,31,74,186,56,Thalassemia,Flu,stable
+PAT0557,79,Other,0,64,114,125,40.5,19,95,166,124,Arthritis,Tuberculosis,deteriorating
+PAT0558,49,Other,1,61,166,53,36.4,30,85,120,118,Thalassemia,Alzheimer,deteriorating
+PAT0559,65,Male,1,52,100,98,40.2,28,99,157,172,Hepatitis,Depression,recovered
+PAT0560,51,Male,0,95,104,70,38.4,33,74,189,142,Asthma,Depression,deteriorating
+PAT0561,46,Male,0,117,170,67,34.8,10,91,142,69,Cancer,Cancer,recovered
+PAT0562,9,Male,0,101,192,121,40.2,36,74,172,84,Malaria,Depression,recovered
+PAT0563,36,Male,1,108,188,118,34.5,23,71,184,133,Chronic Kidney Disease,COVID-19,stable
+PAT0564,59,Other,0,79,90,125,40.5,20,96,191,154,Chronic Kidney Disease,Stroke,stable
+PAT0565,53,Other,1,143,152,107,37.2,22,71,150,81,Alzheimer,Flu,stable
+PAT0566,88,Male,1,50,134,71,35.7,22,70,184,178,Parkinson,Alzheimer,deteriorating
+PAT0567,78,Other,0,71,117,129,36.7,22,86,136,119,Sickle Cell,Lupus,recovered
+PAT0568,12,Female,0,87,160,127,40.8,10,83,133,101,Parkinson,Asthma,recovered
+PAT0569,60,Male,0,103,106,62,37.4,28,93,154,89,Heart Disease,Asthma,recovered
+PAT0570,5,Other,0,135,137,98,37.2,9,95,166,34,Chronic Kidney Disease,Sickle Cell,stable
+PAT0571,89,Other,1,55,149,108,38.9,25,73,136,43,Hepatitis,Parkinson,stable
+PAT0572,77,Female,0,56,123,64,38.6,18,84,154,110,Thalassemia,Arthritis,stable
+PAT0573,34,Female,0,69,179,84,37.0,23,81,143,90,Depression,Ulcer,recovered
+PAT0574,16,Other,0,99,144,81,39.6,13,95,133,141,Dengue,Gastritis,stable
+PAT0575,78,Other,0,117,119,108,34.2,23,99,123,119,Hypertension,Bronchitis,stable
+PAT0576,27,Female,1,115,110,52,35.7,31,84,162,74,Epilepsy,COVID-19,stable
+PAT0577,65,Male,1,120,199,106,36.1,37,79,137,143,Obesity,Cholera,recovered
+PAT0578,68,Other,0,142,118,109,37.3,37,82,142,123,Malaria,Malaria,deteriorating
+PAT0579,5,Female,1,53,172,72,37.8,17,87,134,151,Arthritis,Arthritis,deteriorating
+PAT0580,95,Male,0,123,163,55,36.4,34,72,130,72,Epilepsy,Pneumonia,stable
+PAT0581,16,Male,1,53,142,117,35.8,26,74,151,64,None,Pneumonia,deteriorating
+PAT0582,21,Female,0,133,101,60,37.4,17,72,128,89,Sickle Cell,Dengue,stable
+PAT0583,75,Male,0,63,176,67,34.9,16,78,142,112,Obesity,Polio,stable
+PAT0584,46,Female,0,96,195,79,39.8,9,82,144,103,Tuberculosis,Multiple Sclerosis,deteriorating
+PAT0585,77,Other,1,107,173,90,34.4,10,89,167,39,Epilepsy,Epilepsy,recovered
+PAT0586,98,Female,0,60,164,70,41.1,14,92,200,155,Diabetes,Flu,recovered
+PAT0587,63,Other,1,125,121,103,35.6,23,86,137,119,Epilepsy,Ulcer,stable
+PAT0588,15,Female,1,106,187,96,35.9,17,81,179,106,Hypertension,Asthma,stable
+PAT0589,3,Other,0,51,169,108,38.0,22,77,126,140,Thalassemia,Thalassemia,stable
+PAT0590,45,Other,0,61,92,92,40.0,36,86,155,37,Diabetes,Cholera,deteriorating
+PAT0591,68,Male,1,129,115,77,34.4,22,81,149,173,Chronic Kidney Disease,Lupus,stable
+PAT0592,13,Female,1,120,188,101,37.7,12,98,186,172,Malaria,Asthma,stable
+PAT0593,99,Other,0,95,131,68,35.6,28,74,146,84,Alzheimer,COVID-19,stable
+PAT0594,28,Female,1,74,149,112,36.7,29,85,137,129,Heart Disease,Malaria,stable
+PAT0595,29,Other,0,68,166,83,35.5,37,91,141,140,Chronic Kidney Disease,Zika,recovered
+PAT0596,35,Other,0,68,117,119,40.6,22,94,139,38,Sickle Cell,Pneumonia,deteriorating
+PAT0597,31,Male,1,99,161,54,35.2,37,80,156,51,Dengue,Tuberculosis,recovered
+PAT0598,57,Female,1,142,123,83,34.2,16,79,126,97,Alzheimer,Tuberculosis,recovered
+PAT0599,18,Male,1,143,110,84,38.3,36,88,172,61,Sickle Cell,Depression,stable
+PAT0600,65,Male,0,59,81,115,36.5,24,85,135,75,Hypertension,Asthma,deteriorating
+PAT0601,38,Female,0,80,186,50,35.0,28,73,190,140,Depression,Depression,stable
+PAT0602,49,Other,1,144,160,124,41.4,8,84,172,135,Arthritis,Stroke,stable
+PAT0603,70,Other,1,73,83,68,34.9,15,87,162,104,Obesity,Bronchitis,stable
+PAT0604,66,Other,1,116,185,76,38.5,9,86,135,159,Multiple Sclerosis,Zika,stable
+PAT0605,59,Female,1,79,163,87,35.1,39,98,129,71,Arthritis,Zika,stable
+PAT0606,39,Female,0,126,199,91,35.9,29,85,141,136,Lupus,Alzheimer,stable
+PAT0607,26,Male,0,129,113,81,37.6,9,81,159,102,Malaria,Cancer,stable
+PAT0608,75,Female,1,122,89,97,34.2,35,71,184,153,Parkinson,Gastritis,recovered
+PAT0609,35,Other,1,76,81,80,40.0,9,98,134,41,Lupus,Sickle Cell,deteriorating
+PAT0610,27,Female,1,73,100,59,38.1,12,87,207,171,Chronic Kidney Disease,Sickle Cell,recovered
+PAT0611,33,Other,1,107,155,71,35.1,11,82,155,51,Parkinson,Ulcer,recovered
+PAT0612,77,Other,0,129,140,105,39.9,8,82,155,177,Depression,Bronchitis,stable
+PAT0613,17,Other,1,116,102,65,35.6,11,90,197,169,Sickle Cell,Multiple Sclerosis,recovered
+PAT0614,15,Male,0,136,93,110,36.6,39,84,163,174,Cystic Fibrosis,Ulcer,deteriorating
+PAT0615,40,Other,1,93,177,54,34.8,27,92,197,108,Asthma,COVID-19,deteriorating
+PAT0616,42,Female,0,80,178,66,38.2,21,91,181,61,Hepatitis,Stroke,stable
+PAT0617,39,Male,0,133,114,54,37.9,13,94,141,98,Hepatitis,Depression,recovered
+PAT0618,90,Female,0,121,198,50,36.4,30,80,158,83,Multiple Sclerosis,Lupus,deteriorating
+PAT0619,87,Male,0,78,133,65,41.5,21,72,184,156,Arthritis,COVID-19,stable
+PAT0620,57,Other,0,50,160,115,39.0,13,77,148,141,Depression,Depression,stable
+PAT0621,50,Male,0,52,139,84,39.0,19,81,203,138,Epilepsy,Polio,stable
+PAT0622,19,Other,0,88,83,68,39.5,20,80,132,170,Malaria,Thalassemia,recovered
+PAT0623,59,Other,0,135,171,101,37.7,20,91,162,71,Cystic Fibrosis,Sickle Cell,recovered
+PAT0624,89,Female,1,75,102,92,36.1,16,89,175,68,Sickle Cell,Epilepsy,deteriorating
+PAT0625,50,Male,1,128,174,104,35.8,33,79,146,40,Chronic Kidney Disease,Arthritis,stable
+PAT0626,37,Female,1,92,98,113,37.0,27,75,161,94,COPD,Cystic Fibrosis,stable
+PAT0627,98,Other,1,121,138,101,39.5,31,76,130,132,Depression,Cancer,stable
+PAT0628,60,Other,1,74,91,75,39.8,19,80,170,146,Multiple Sclerosis,Migraine,stable
+PAT0629,36,Other,1,102,167,129,34.4,32,98,173,145,Cystic Fibrosis,Arthritis,stable
+PAT0630,3,Female,0,145,128,56,37.4,18,97,173,52,Malaria,Multiple Sclerosis,recovered
+PAT0631,27,Female,0,106,105,74,34.5,26,70,155,43,Hypertension,Gastritis,recovered
+PAT0632,77,Male,0,79,171,66,34.8,21,99,164,108,Malaria,Polio,stable
+PAT0633,88,Female,0,96,132,113,37.4,33,75,183,116,Multiple Sclerosis,Epilepsy,stable
+PAT0634,88,Other,1,56,101,90,35.4,32,76,169,81,Chronic Kidney Disease,Polio,stable
+PAT0635,32,Female,0,102,139,83,34.3,11,80,209,33,None,Pneumonia,stable
+PAT0636,0,Other,0,143,129,122,34.7,15,98,143,65,HIV/AIDS,Ulcer,deteriorating
+PAT0637,49,Other,1,92,106,81,40.8,25,97,148,45,HIV/AIDS,Sickle Cell,stable
+PAT0638,98,Male,0,108,110,53,38.6,14,85,165,68,Hepatitis,Cancer,recovered
+PAT0639,3,Male,1,79,101,124,39.9,19,99,155,47,Cystic Fibrosis,Multiple Sclerosis,deteriorating
+PAT0640,89,Other,0,120,80,107,41.4,33,82,125,99,Cancer,Dengue,stable
+PAT0641,43,Female,1,73,165,68,37.9,38,99,149,62,Depression,Sickle Cell,deteriorating
+PAT0642,73,Female,0,61,197,76,36.6,29,90,195,58,Obesity,Gastritis,stable
+PAT0643,32,Male,0,111,196,64,38.6,14,90,163,47,Thalassemia,Alzheimer,stable
+PAT0644,2,Other,0,92,161,87,35.6,8,81,178,124,Multiple Sclerosis,Cholera,recovered
+PAT0645,10,Male,1,131,147,71,35.6,38,75,161,54,Hepatitis,Measles,recovered
+PAT0646,56,Male,0,104,95,63,35.2,39,97,170,148,Dengue,Ebola,stable
+PAT0647,48,Other,0,107,124,71,34.4,30,74,161,82,COPD,Measles,deteriorating
+PAT0648,95,Female,0,123,118,64,38.7,34,84,122,112,Parkinson,Parkinson,deteriorating
+PAT0649,9,Female,1,78,158,84,34.4,22,75,196,122,COPD,Hepatitis,recovered
+PAT0650,18,Other,0,57,87,96,37.8,28,72,164,165,Arthritis,Epilepsy,recovered
+PAT0651,86,Male,1,126,146,58,38.2,20,90,190,44,Arthritis,Hepatitis,stable
+PAT0652,70,Male,1,147,120,71,38.1,12,81,120,39,Obesity,Bronchitis,recovered
+PAT0653,79,Other,1,121,135,99,35.3,24,97,145,141,Chronic Kidney Disease,Cystic Fibrosis,deteriorating
+PAT0654,77,Other,0,85,102,92,39.2,12,80,144,47,Obesity,Ebola,stable
+PAT0655,61,Other,0,92,157,77,34.6,35,94,170,85,Tuberculosis,Bronchitis,stable
+PAT0656,26,Other,1,58,183,117,35.3,9,85,186,165,Dengue,Zika,stable
+PAT0657,5,Female,1,73,127,94,35.8,32,89,201,140,Heart Disease,Malaria,stable
+PAT0658,81,Male,1,123,198,94,37.6,38,81,196,143,None,Epilepsy,stable
+PAT0659,54,Male,0,68,114,102,39.2,21,91,164,80,Diabetes,Migraine,stable
+PAT0660,42,Female,0,135,102,105,40.0,25,81,174,121,Chronic Kidney Disease,Cancer,stable
+PAT0661,59,Other,0,82,98,77,40.0,36,99,168,66,Parkinson,AIDS,stable
+PAT0662,25,Female,0,147,178,89,38.1,20,99,206,83,Lupus,Ulcer,deteriorating
+PAT0663,21,Male,1,77,191,84,37.0,21,77,174,114,Epilepsy,Gastritis,deteriorating
+PAT0664,25,Other,1,134,104,114,36.7,26,92,162,136,Arthritis,Polio,recovered
+PAT0665,22,Other,1,79,156,67,38.3,8,90,176,132,COPD,Cystic Fibrosis,deteriorating
+PAT0666,22,Female,0,94,123,96,34.2,17,76,169,113,Malaria,Parkinson,stable
+PAT0667,90,Male,1,140,88,106,40.0,33,77,164,106,Depression,Stroke,stable
+PAT0668,48,Other,0,69,180,66,39.2,9,94,177,70,Malaria,Dengue,recovered
+PAT0669,5,Female,0,87,85,94,36.4,9,77,122,146,Alzheimer,Ebola,stable
+PAT0670,98,Male,0,73,98,67,39.4,27,98,207,64,HIV/AIDS,Thalassemia,recovered
+PAT0671,61,Male,0,149,104,94,37.7,37,80,208,173,Arthritis,Hepatitis,stable
+PAT0672,97,Female,0,68,102,74,39.6,26,78,120,71,Heart Disease,Polio,stable
+PAT0673,18,Male,0,83,159,104,36.9,32,98,164,163,Alzheimer,Measles,stable
+PAT0674,20,Other,1,119,175,97,35.3,38,79,129,59,Alzheimer,Stroke,deteriorating
+PAT0675,17,Other,1,137,195,122,38.5,11,77,128,138,Epilepsy,Pneumonia,stable
+PAT0676,8,Other,1,53,160,65,36.5,32,89,188,34,Parkinson,Epilepsy,deteriorating
+PAT0677,19,Other,0,67,190,51,40.1,11,79,193,124,Epilepsy,Ebola,deteriorating
+PAT0678,7,Male,0,112,189,58,35.0,18,72,161,170,Arthritis,Dengue,stable
+PAT0679,35,Male,1,62,91,86,35.8,31,78,171,159,Alzheimer,Hepatitis,stable
+PAT0680,55,Female,1,72,182,89,40.0,28,92,148,118,Multiple Sclerosis,AIDS,stable
+PAT0681,30,Male,1,69,187,104,35.0,9,94,132,151,Multiple Sclerosis,COVID-19,stable
+PAT0682,91,Male,1,119,146,107,35.1,18,91,203,98,Hepatitis,Tuberculosis,recovered
+PAT0683,82,Other,1,108,139,111,39.9,31,78,187,44,Hypertension,Polio,recovered
+PAT0684,88,Female,1,104,114,104,35.1,26,75,126,59,Hypertension,Gastritis,stable
+PAT0685,82,Male,0,138,95,100,35.9,35,85,202,71,Thalassemia,Lupus,stable
+PAT0686,16,Female,0,94,156,56,40.4,9,73,144,35,Malaria,Measles,stable
+PAT0687,23,Female,1,136,85,78,36.5,30,86,165,104,Dengue,Flu,stable
+PAT0688,25,Other,0,147,107,52,35.3,36,83,170,119,Alzheimer,Stroke,stable
+PAT0689,47,Female,0,103,135,108,40.1,27,85,205,88,Asthma,Bronchitis,recovered
+PAT0690,70,Female,0,50,108,112,34.6,29,73,154,152,Arthritis,Stroke,recovered
+PAT0691,2,Male,1,56,106,50,37.6,13,76,163,116,Diabetes,Multiple Sclerosis,deteriorating
+PAT0692,40,Female,0,124,121,82,35.4,11,74,178,156,Epilepsy,Thalassemia,recovered
+PAT0693,80,Female,0,97,84,97,40.2,27,84,181,128,Alzheimer,Malaria,recovered
+PAT0694,13,Male,0,110,110,66,36.3,27,92,201,79,Epilepsy,Tuberculosis,deteriorating
+PAT0695,77,Male,1,128,158,119,36.6,25,73,127,108,Multiple Sclerosis,Multiple Sclerosis,deteriorating
+PAT0696,2,Other,1,96,156,110,35.0,37,89,132,30,Hepatitis,Parkinson,recovered
+PAT0697,33,Male,1,128,187,127,36.6,9,87,190,67,HIV/AIDS,COVID-19,deteriorating
+PAT0698,13,Other,1,140,133,51,34.6,21,94,175,123,Hypertension,Hepatitis,stable
+PAT0699,92,Other,1,134,140,71,35.5,23,87,162,46,Hypertension,Ulcer,recovered
+PAT0700,79,Female,1,51,83,88,36.4,13,86,208,98,Epilepsy,Ulcer,stable
+PAT0701,68,Male,1,113,95,100,34.4,15,78,188,95,None,Depression,recovered
+PAT0702,8,Male,0,149,165,113,36.1,9,92,148,139,Multiple Sclerosis,Alzheimer,stable
+PAT0703,96,Other,1,120,144,50,34.9,11,98,201,56,Cystic Fibrosis,Zika,stable
+PAT0704,42,Female,0,81,112,77,35.8,30,73,179,99,None,Thalassemia,stable
+PAT0705,61,Female,1,83,166,105,38.7,31,87,173,142,COPD,Migraine,deteriorating
+PAT0706,42,Other,0,110,121,128,39.8,29,88,149,127,Multiple Sclerosis,Polio,deteriorating
+PAT0707,57,Other,1,116,150,67,41.4,15,75,205,97,Hepatitis,Arthritis,stable
+PAT0708,48,Female,1,78,100,127,40.4,22,81,161,157,Thalassemia,Thalassemia,stable
+PAT0709,19,Other,1,76,117,121,36.3,24,86,143,157,Obesity,Cystic Fibrosis,stable
+PAT0710,46,Male,0,132,165,112,34.5,35,72,181,59,COPD,Malaria,deteriorating
+PAT0711,92,Other,1,124,163,78,39.5,17,71,184,60,Depression,Ulcer,recovered
+PAT0712,29,Female,1,67,198,66,36.4,30,94,198,139,Lupus,Stroke,recovered
+PAT0713,55,Male,1,116,135,68,36.4,9,72,120,81,Alzheimer,Dengue,recovered
+PAT0714,84,Other,0,119,116,114,41.2,34,90,172,45,Arthritis,Stroke,stable
+PAT0715,60,Female,1,89,105,129,34.9,11,79,183,46,Tuberculosis,Cancer,stable
+PAT0716,58,Female,0,56,123,102,36.1,22,71,165,107,Malaria,Flu,stable
+PAT0717,15,Male,0,145,98,51,35.3,36,86,131,99,Hypertension,Migraine,stable
+PAT0718,21,Other,1,133,80,103,34.9,33,75,202,175,Sickle Cell,Asthma,recovered
+PAT0719,5,Male,0,146,102,72,36.1,14,84,163,56,Parkinson,Lupus,stable
+PAT0720,25,Male,0,128,115,104,36.9,32,74,180,159,Depression,COVID-19,recovered
+PAT0721,54,Female,1,146,159,87,36.9,21,98,145,64,COPD,Polio,deteriorating
+PAT0722,78,Male,0,136,108,83,37.4,16,92,190,32,Multiple Sclerosis,Pneumonia,recovered
+PAT0723,57,Female,1,80,161,92,34.5,8,98,133,35,HIV/AIDS,Cystic Fibrosis,stable
+PAT0724,9,Male,0,139,177,79,40.1,37,97,200,126,Dengue,Polio,stable
+PAT0725,73,Female,0,112,190,91,38.2,19,93,199,70,COPD,Malaria,stable
+PAT0726,31,Other,0,111,106,77,35.5,21,96,177,159,Malaria,Gastritis,stable
+PAT0727,35,Other,1,120,92,64,35.5,35,91,182,103,Depression,Hepatitis,deteriorating
+PAT0728,24,Other,0,97,122,87,35.5,31,77,136,86,Depression,Multiple Sclerosis,recovered
+PAT0729,1,Male,1,111,167,58,36.6,24,90,169,141,Malaria,Cancer,stable
+PAT0730,93,Other,1,107,154,70,37.3,36,93,193,138,HIV/AIDS,Lupus,deteriorating
+PAT0731,16,Female,1,91,191,94,36.5,16,83,168,161,Alzheimer,Polio,stable
+PAT0732,81,Other,0,69,199,96,40.6,16,82,198,44,Hepatitis,Gastritis,deteriorating
+PAT0733,91,Female,0,68,169,101,37.7,33,95,165,121,HIV/AIDS,Malaria,stable
+PAT0734,48,Male,1,145,132,52,36.6,17,88,136,105,Depression,Arthritis,stable
+PAT0735,48,Other,1,112,82,98,40.4,10,77,171,129,Obesity,Migraine,recovered
+PAT0736,6,Female,1,95,179,65,34.3,29,99,120,78,Multiple Sclerosis,Sickle Cell,recovered
+PAT0737,24,Female,1,129,95,107,38.4,14,97,125,173,Cancer,Lupus,recovered
+PAT0738,19,Male,1,120,184,127,38.1,33,83,190,55,None,Lupus,stable
+PAT0739,44,Male,1,112,146,101,38.0,33,80,121,171,Alzheimer,Sickle Cell,recovered
+PAT0740,29,Other,0,61,169,93,38.0,21,93,145,178,Hypertension,Zika,recovered
+PAT0741,27,Other,1,149,119,115,34.2,30,84,196,52,Hypertension,Multiple Sclerosis,deteriorating
+PAT0742,80,Male,1,97,81,69,39.5,10,92,131,69,Thalassemia,Ulcer,deteriorating
+PAT0743,65,Male,1,149,157,65,36.3,19,98,125,129,Diabetes,COVID-19,stable
+PAT0744,21,Female,1,61,131,100,35.4,39,85,138,35,Hypertension,Parkinson,stable
+PAT0745,83,Other,0,102,186,97,36.7,12,80,134,160,Depression,Thalassemia,stable
+PAT0746,68,Male,0,102,116,58,38.8,36,75,136,178,Alzheimer,Arthritis,stable
+PAT0747,71,Male,0,60,117,121,41.0,36,72,133,43,Arthritis,Lupus,stable
+PAT0748,9,Female,1,87,187,83,34.4,33,86,136,144,Diabetes,Depression,recovered
+PAT0749,0,Other,1,53,121,62,39.3,28,91,123,111,Hepatitis,Ebola,recovered
+PAT0750,68,Male,0,51,91,123,38.4,15,98,170,40,Asthma,Polio,deteriorating
+PAT0751,62,Male,0,61,152,51,38.0,18,97,172,39,HIV/AIDS,COVID-19,stable
+PAT0752,84,Female,1,57,115,125,37.8,23,91,204,115,Malaria,Migraine,recovered
+PAT0753,20,Male,1,99,173,88,40.7,30,76,128,158,Malaria,Malaria,stable
+PAT0754,25,Male,1,87,197,110,37.6,19,79,181,151,Lupus,Ulcer,stable
+PAT0755,5,Male,0,100,193,87,37.6,17,93,191,178,Thalassemia,Cholera,stable
+PAT0756,69,Male,0,106,118,82,37.2,31,97,176,125,Heart Disease,Malaria,stable
+PAT0757,75,Other,1,91,106,123,37.8,27,79,151,55,Depression,Asthma,stable
+PAT0758,24,Other,0,72,177,106,34.4,37,92,150,93,Cancer,Flu,stable
+PAT0759,70,Female,1,82,164,51,36.0,8,74,203,64,Thalassemia,Ebola,stable
+PAT0760,50,Male,1,67,189,121,34.8,19,90,129,116,Arthritis,Polio,deteriorating
+PAT0761,51,Male,0,60,145,107,38.2,8,84,132,69,Lupus,Measles,stable
+PAT0762,88,Female,1,91,98,68,35.5,34,91,199,94,Hypertension,Polio,deteriorating
+PAT0763,11,Female,1,83,132,57,35.3,23,74,145,42,Alzheimer,Alzheimer,stable
+PAT0764,82,Male,0,52,169,107,37.9,19,71,194,137,Obesity,AIDS,recovered
+PAT0765,27,Other,1,126,180,125,34.6,12,76,145,117,None,Multiple Sclerosis,recovered
+PAT0766,75,Female,1,72,119,109,40.0,22,74,132,34,Heart Disease,Gastritis,deteriorating
+PAT0767,74,Male,1,101,156,90,35.0,25,84,126,69,Parkinson,Zika,recovered
+PAT0768,27,Other,1,148,94,119,37.6,18,81,145,114,Alzheimer,Cancer,stable
+PAT0769,90,Other,0,89,156,72,41.1,37,98,187,133,None,Ebola,recovered
+PAT0770,79,Other,0,102,185,74,34.1,33,74,128,41,Heart Disease,Depression,recovered
+PAT0771,68,Female,1,103,107,105,34.9,9,83,196,132,Hypertension,Pneumonia,stable
+PAT0772,57,Male,1,124,121,87,36.1,8,76,175,134,Obesity,Parkinson,recovered
+PAT0773,71,Other,0,100,153,92,40.0,13,84,124,112,Dengue,Multiple Sclerosis,stable
+PAT0774,53,Other,0,59,91,53,40.9,23,77,155,54,Chronic Kidney Disease,Ebola,recovered
+PAT0775,86,Female,1,147,115,116,38.8,28,87,162,92,HIV/AIDS,Tuberculosis,stable
+PAT0776,97,Female,0,127,83,90,35.0,25,84,147,109,Hepatitis,Bronchitis,stable
+PAT0777,75,Other,1,118,177,50,35.3,33,86,207,119,Dengue,Flu,recovered
+PAT0778,48,Female,1,87,102,71,34.6,34,78,187,159,HIV/AIDS,Cystic Fibrosis,deteriorating
+PAT0779,48,Female,1,144,190,80,39.6,23,88,162,127,None,Malaria,recovered
+PAT0780,54,Other,1,98,169,129,38.0,20,84,146,142,None,Lupus,stable
+PAT0781,85,Female,1,98,155,104,34.2,11,81,150,116,Asthma,Flu,deteriorating
+PAT0782,52,Female,1,128,102,77,36.3,28,84,136,66,Epilepsy,Tuberculosis,recovered
+PAT0783,76,Male,0,79,124,67,35.3,11,73,203,81,None,Flu,deteriorating
+PAT0784,18,Female,0,93,86,93,34.6,34,71,185,98,Alzheimer,Arthritis,stable
+PAT0785,54,Male,1,145,121,90,35.3,12,95,129,39,Diabetes,Flu,stable
+PAT0786,90,Male,1,100,100,57,34.9,24,76,197,114,Sickle Cell,Parkinson,recovered
+PAT0787,29,Female,0,98,88,66,39.8,32,99,171,69,Diabetes,Gastritis,stable
+PAT0788,37,Male,0,112,98,99,34.1,21,93,181,72,Multiple Sclerosis,Measles,stable
+PAT0789,48,Male,1,59,174,55,40.8,14,95,140,121,Parkinson,Depression,deteriorating
+PAT0790,79,Female,1,136,195,69,38.1,32,97,124,149,Cancer,Stroke,stable
+PAT0791,20,Female,1,96,149,106,36.1,39,70,184,160,Depression,Stroke,deteriorating
+PAT0792,41,Female,0,148,184,89,35.2,38,82,174,138,Chronic Kidney Disease,Dengue,stable
+PAT0793,97,Male,0,105,134,119,36.5,20,86,206,110,Malaria,Migraine,recovered
+PAT0794,65,Other,0,132,199,56,38.3,17,79,178,49,Thalassemia,Epilepsy,stable
+PAT0795,72,Male,0,76,126,51,37.4,11,88,136,98,Epilepsy,Pneumonia,deteriorating
+PAT0796,38,Male,1,120,160,88,37.0,20,73,144,58,Dengue,Cancer,recovered
+PAT0797,72,Female,1,100,103,63,36.2,17,94,202,41,Obesity,Hepatitis,stable
+PAT0798,81,Other,0,79,167,124,35.3,24,70,198,61,Sickle Cell,Stroke,stable
+PAT0799,8,Other,0,77,103,109,40.0,29,96,202,138,Lupus,COVID-19,stable
+PAT0800,75,Male,1,114,164,98,39.6,17,84,178,125,Dengue,Cancer,stable
+PAT0801,61,Other,0,135,97,95,34.6,35,87,158,111,Thalassemia,Epilepsy,recovered
+PAT0802,43,Male,1,103,174,83,36.8,25,97,157,166,Obesity,Malaria,stable
+PAT0803,72,Female,1,121,130,84,38.1,21,97,149,33,Malaria,Pneumonia,recovered
+PAT0804,38,Male,1,113,104,77,36.4,18,83,141,52,Parkinson,Arthritis,deteriorating
+PAT0805,47,Other,1,87,134,117,40.2,32,70,126,124,Diabetes,Lupus,stable
+PAT0806,11,Other,1,54,187,99,34.1,35,81,137,103,Tuberculosis,Hepatitis,recovered
+PAT0807,78,Other,1,66,147,120,39.1,38,88,153,74,Heart Disease,Zika,recovered
+PAT0808,57,Female,0,83,123,64,34.2,25,74,151,32,Cystic Fibrosis,Epilepsy,deteriorating
+PAT0809,85,Female,1,123,130,116,34.5,36,85,136,36,HIV/AIDS,Migraine,stable
+PAT0810,12,Other,1,115,83,59,36.2,24,89,125,98,Hepatitis,Ebola,stable
+PAT0811,95,Female,1,58,170,126,36.8,31,75,123,32,Sickle Cell,Epilepsy,stable
+PAT0812,67,Other,0,89,127,103,36.7,31,81,208,69,Arthritis,Polio,recovered
+PAT0813,76,Other,1,95,157,62,36.7,24,73,200,31,Hepatitis,Arthritis,deteriorating
+PAT0814,76,Female,1,115,131,92,40.5,29,84,174,96,Lupus,Measles,recovered
+PAT0815,98,Other,1,107,91,118,39.2,14,82,160,86,Thalassemia,Polio,deteriorating
+PAT0816,52,Male,0,61,92,123,35.2,15,91,199,157,Cystic Fibrosis,Thalassemia,stable
+PAT0817,44,Other,0,52,199,54,37.9,37,76,175,167,Sickle Cell,Asthma,stable
+PAT0818,33,Other,0,121,110,124,37.4,20,71,189,70,Cystic Fibrosis,Sickle Cell,stable
+PAT0819,62,Female,1,69,136,99,37.3,19,76,158,174,Hepatitis,Pneumonia,deteriorating
+PAT0820,44,Female,0,119,102,119,36.3,39,91,203,118,HIV/AIDS,Depression,recovered
+PAT0821,78,Other,1,142,151,86,39.7,8,91,124,47,Parkinson,Cystic Fibrosis,stable
+PAT0822,37,Female,1,86,173,113,38.1,17,96,167,73,Malaria,Malaria,stable
+PAT0823,81,Other,0,146,95,103,38.4,9,97,121,123,Parkinson,Cystic Fibrosis,stable
+PAT0824,12,Female,0,129,138,118,38.9,28,76,164,177,Diabetes,Epilepsy,deteriorating
+PAT0825,23,Female,0,140,173,107,38.7,33,76,161,76,Heart Disease,Pneumonia,recovered
+PAT0826,52,Other,0,87,148,102,40.3,33,85,138,166,None,Tuberculosis,stable
+PAT0827,63,Female,0,103,130,88,41.5,10,93,183,58,Tuberculosis,Depression,stable
+PAT0828,10,Female,0,107,154,76,35.7,14,75,165,95,Asthma,Hepatitis,recovered
+PAT0829,90,Female,1,124,190,114,37.9,10,97,120,54,Obesity,Flu,stable
+PAT0830,42,Other,1,133,146,112,36.7,25,99,183,98,Asthma,AIDS,recovered
+PAT0831,8,Other,1,83,139,110,41.1,25,81,155,114,Asthma,Thalassemia,recovered
+PAT0832,48,Other,0,119,191,98,41.4,12,83,209,119,HIV/AIDS,Depression,deteriorating
+PAT0833,25,Male,1,54,94,65,34.3,12,72,171,76,Obesity,Arthritis,stable
+PAT0834,94,Female,0,129,134,70,40.5,34,75,209,91,HIV/AIDS,Ebola,stable
+PAT0835,45,Male,0,60,151,57,37.3,14,75,140,144,Cancer,Sickle Cell,stable
+PAT0836,62,Female,0,113,199,69,37.9,21,87,128,44,Diabetes,Lupus,stable
+PAT0837,93,Male,1,59,108,129,40.5,20,91,156,115,Epilepsy,Alzheimer,stable
+PAT0838,70,Male,0,90,183,129,37.9,23,75,150,43,Lupus,COVID-19,stable
+PAT0839,96,Other,0,122,170,126,34.2,26,86,162,101,Heart Disease,Alzheimer,deteriorating
+PAT0840,86,Other,0,54,121,56,39.2,16,96,177,75,Cancer,Tuberculosis,stable
+PAT0841,65,Female,0,122,196,76,41.2,17,79,171,154,Asthma,Migraine,stable
+PAT0842,66,Female,1,107,149,102,39.9,33,87,206,31,Arthritis,Sickle Cell,stable
+PAT0843,75,Female,1,86,99,73,36.1,8,70,200,158,Sickle Cell,Malaria,stable
+PAT0844,93,Female,0,52,125,104,35.3,29,81,164,106,Malaria,Cholera,stable
+PAT0845,64,Male,1,123,114,73,37.8,23,77,135,88,Cystic Fibrosis,Cystic Fibrosis,recovered
+PAT0846,80,Other,0,103,158,65,38.3,9,80,184,108,Parkinson,Flu,stable
+PAT0847,89,Female,0,117,122,118,37.0,17,80,201,132,Asthma,Ulcer,stable
+PAT0848,40,Male,1,99,166,120,35.9,10,81,126,78,Malaria,Cystic Fibrosis,deteriorating
+PAT0849,25,Female,0,97,158,51,40.8,14,73,139,146,Hepatitis,Parkinson,deteriorating
+PAT0850,35,Female,1,77,156,50,37.5,10,85,149,83,Hepatitis,Bronchitis,stable
+PAT0851,35,Other,0,104,168,129,37.2,8,74,170,51,Lupus,Polio,stable
+PAT0852,87,Male,0,102,179,85,34.7,27,90,201,175,Alzheimer,Bronchitis,stable
+PAT0853,21,Male,1,70,179,93,38.7,14,98,173,119,Cancer,Cancer,recovered
+PAT0854,84,Other,0,129,139,80,35.1,38,83,168,130,Hypertension,Cholera,stable
+PAT0855,1,Male,1,97,189,63,41.3,10,95,177,31,Depression,Stroke,deteriorating
+PAT0856,40,Female,0,131,95,53,38.7,14,83,131,128,Alzheimer,Depression,stable
+PAT0857,4,Female,0,81,153,92,35.3,20,79,128,129,Cystic Fibrosis,Epilepsy,stable
+PAT0858,17,Female,0,111,136,78,38.7,21,94,134,163,Depression,Bronchitis,deteriorating
+PAT0859,41,Male,0,128,172,53,38.7,32,86,163,104,HIV/AIDS,Gastritis,deteriorating
+PAT0860,13,Male,0,111,185,113,34.3,17,87,177,49,Alzheimer,Gastritis,deteriorating
+PAT0861,57,Female,1,138,136,126,36.0,21,70,171,66,Parkinson,Lupus,recovered
+PAT0862,7,Female,1,147,187,54,35.0,38,82,128,61,Alzheimer,Depression,deteriorating
+PAT0863,32,Male,1,116,109,125,39.9,33,94,149,166,Chronic Kidney Disease,Multiple Sclerosis,stable
+PAT0864,25,Female,1,111,82,95,37.9,26,82,163,84,Alzheimer,Zika,recovered
+PAT0865,86,Other,0,51,140,90,38.9,38,81,166,159,Epilepsy,Arthritis,stable
+PAT0866,95,Female,1,126,189,118,37.3,19,79,175,156,Asthma,Lupus,recovered
+PAT0867,88,Male,1,79,150,119,38.4,10,82,122,55,COPD,Cholera,recovered
+PAT0868,56,Female,1,73,132,119,40.0,33,86,161,40,Chronic Kidney Disease,Tuberculosis,recovered
+PAT0869,97,Male,1,67,164,101,34.1,29,90,178,143,Epilepsy,Cholera,recovered
+PAT0870,29,Male,1,147,136,122,35.4,15,94,138,34,Tuberculosis,Ebola,recovered
+PAT0871,74,Other,0,121,162,76,34.1,33,96,181,112,Malaria,Cholera,recovered
+PAT0872,49,Other,1,78,118,109,39.4,26,74,202,126,Hepatitis,Bronchitis,stable
+PAT0873,15,Male,0,56,105,61,36.6,17,97,188,55,Tuberculosis,Ebola,deteriorating
+PAT0874,4,Female,1,128,92,77,39.0,30,70,137,146,Alzheimer,Migraine,stable
+PAT0875,29,Male,1,65,156,88,37.8,23,70,157,159,Obesity,Cystic Fibrosis,stable
+PAT0876,5,Other,1,99,117,67,38.4,15,97,193,46,Chronic Kidney Disease,Cholera,stable
+PAT0877,61,Other,0,107,149,127,36.5,13,95,158,169,Asthma,Stroke,recovered
+PAT0878,98,Female,1,71,130,72,37.4,15,87,208,170,Hypertension,Migraine,recovered
+PAT0879,84,Male,0,59,196,104,35.7,22,89,121,42,Lupus,Cholera,deteriorating
+PAT0880,97,Male,0,107,113,84,37.9,38,79,178,99,Lupus,Cancer,recovered
+PAT0881,47,Other,1,68,146,122,35.3,12,72,130,150,Dengue,Epilepsy,deteriorating
+PAT0882,93,Other,1,118,80,112,37.1,19,82,160,159,Chronic Kidney Disease,Sickle Cell,stable
+PAT0883,36,Female,0,129,127,73,36.9,11,80,177,58,Heart Disease,Sickle Cell,recovered
+PAT0884,34,Male,1,64,139,91,40.9,23,79,168,93,Dengue,Depression,recovered
+PAT0885,1,Other,1,136,145,87,40.4,15,95,148,107,Malaria,Hepatitis,recovered
+PAT0886,24,Female,1,114,132,116,38.7,25,78,157,116,Parkinson,AIDS,recovered
+PAT0887,20,Other,0,114,100,76,41.1,13,92,163,129,Heart Disease,Lupus,recovered
+PAT0888,27,Other,0,66,119,52,40.2,19,71,165,98,Cystic Fibrosis,Cystic Fibrosis,stable
+PAT0889,8,Male,0,60,148,115,38.0,8,76,165,144,Alzheimer,Malaria,stable
+PAT0890,91,Female,1,80,90,51,39.3,34,72,121,132,Tuberculosis,Epilepsy,stable
+PAT0891,20,Female,1,54,131,94,40.8,27,98,157,177,Obesity,Arthritis,stable
+PAT0892,24,Other,1,81,105,119,36.4,10,70,120,80,Depression,Ebola,stable
+PAT0893,4,Other,0,68,91,97,35.2,26,72,195,123,Hypertension,Asthma,deteriorating
+PAT0894,4,Female,1,71,182,126,34.2,29,72,172,98,Diabetes,Pneumonia,recovered
+PAT0895,87,Male,1,82,151,99,39.0,23,87,195,138,Epilepsy,Hepatitis,deteriorating
+PAT0896,38,Female,0,95,175,96,37.4,15,87,206,157,Tuberculosis,Cystic Fibrosis,recovered
+PAT0897,49,Other,0,109,175,64,35.8,38,74,205,103,COPD,Bronchitis,recovered
+PAT0898,23,Female,1,98,97,56,37.1,12,97,174,45,Heart Disease,Sickle Cell,stable
+PAT0899,98,Male,1,139,161,78,39.7,21,84,168,62,Malaria,Thalassemia,recovered
+PAT0900,24,Male,0,66,102,106,36.7,33,83,139,48,Hypertension,Malaria,stable
+PAT0901,52,Other,0,105,156,72,36.5,8,76,137,102,Lupus,Multiple Sclerosis,stable
+PAT0902,32,Other,1,110,133,66,40.9,13,72,153,113,Heart Disease,Cystic Fibrosis,deteriorating
+PAT0903,24,Male,1,123,153,60,36.3,33,98,199,36,Depression,Flu,deteriorating
+PAT0904,15,Male,0,65,119,61,36.2,28,87,162,46,Arthritis,Thalassemia,stable
+PAT0905,31,Male,0,55,167,76,39.7,9,78,172,90,Lupus,Cancer,recovered
+PAT0906,37,Female,0,133,149,104,38.2,13,82,166,55,Lupus,Stroke,stable
+PAT0907,13,Male,1,103,150,95,40.2,38,93,178,58,Dengue,Flu,recovered
+PAT0908,95,Male,0,63,183,85,34.6,23,93,182,120,Asthma,Cancer,stable
+PAT0909,24,Female,0,81,195,67,40.9,16,97,183,101,None,Malaria,recovered
+PAT0910,19,Male,1,135,162,79,34.9,10,80,182,40,Thalassemia,Thalassemia,deteriorating
+PAT0911,30,Other,0,149,173,68,35.1,38,80,156,58,Parkinson,AIDS,stable
+PAT0912,25,Male,1,51,163,64,38.8,29,87,157,52,Epilepsy,Tuberculosis,recovered
+PAT0913,58,Other,1,124,107,115,34.8,36,80,137,79,Multiple Sclerosis,Stroke,recovered
+PAT0914,13,Other,1,123,178,58,41.1,38,81,195,96,Cystic Fibrosis,Hepatitis,recovered
+PAT0915,52,Male,0,127,135,77,39.1,32,90,129,44,Asthma,Stroke,recovered
+PAT0916,82,Other,1,135,100,109,40.9,39,87,142,170,Multiple Sclerosis,Malaria,stable
+PAT0917,68,Female,1,141,157,121,37.1,26,72,140,175,Obesity,Ebola,deteriorating
+PAT0918,96,Female,1,130,122,55,38.0,10,81,131,95,Thalassemia,Flu,stable
+PAT0919,1,Other,0,72,108,56,34.8,21,81,149,99,Sickle Cell,Lupus,stable
+PAT0920,87,Other,1,76,161,73,35.5,15,84,198,53,Diabetes,Cholera,recovered
+PAT0921,64,Female,1,93,155,106,41.2,15,97,190,168,Tuberculosis,Depression,stable
+PAT0922,85,Male,1,84,195,91,35.9,25,83,201,53,Multiple Sclerosis,Malaria,stable
+PAT0923,7,Male,1,102,151,53,36.6,12,70,168,127,HIV/AIDS,Epilepsy,stable
+PAT0924,29,Male,1,112,126,75,35.1,9,76,159,121,Depression,Sickle Cell,stable
+PAT0925,38,Other,1,141,157,102,34.9,11,79,201,137,Diabetes,Tuberculosis,recovered
+PAT0926,24,Male,0,77,148,116,37.8,22,79,139,112,Dengue,Cholera,recovered
+PAT0927,10,Female,1,116,166,56,39.0,14,83,153,135,Malaria,Arthritis,stable
+PAT0928,18,Female,1,58,127,90,35.3,17,94,197,137,Heart Disease,AIDS,stable
+PAT0929,24,Male,0,88,198,128,36.5,15,79,182,97,Chronic Kidney Disease,COVID-19,deteriorating
+PAT0930,18,Male,0,77,164,127,35.6,17,88,149,51,Dengue,Depression,stable
+PAT0931,2,Other,0,131,154,97,37.8,29,75,159,152,Arthritis,Multiple Sclerosis,stable
+PAT0932,93,Other,1,122,190,51,37.4,17,71,174,130,Dengue,Flu,stable
+PAT0933,59,Other,0,55,187,68,37.8,8,80,152,69,Sickle Cell,Stroke,stable
+PAT0934,31,Female,0,66,87,106,34.6,16,93,206,83,Heart Disease,Depression,recovered
+PAT0935,83,Male,1,74,146,111,34.6,31,71,165,51,Alzheimer,Cancer,stable
+PAT0936,10,Other,1,57,118,84,39.8,13,77,173,121,Thalassemia,Thalassemia,stable
+PAT0937,39,Female,1,145,158,66,40.7,21,89,199,38,Lupus,Dengue,recovered
+PAT0938,32,Male,1,142,156,70,36.4,12,79,125,144,Hypertension,Ulcer,deteriorating
+PAT0939,12,Female,0,69,136,95,37.3,16,86,186,168,Asthma,Hepatitis,stable
+PAT0940,11,Male,1,74,128,98,41.3,37,91,155,68,COPD,Thalassemia,recovered
+PAT0941,52,Other,1,127,182,105,35.3,31,91,123,59,Cancer,Pneumonia,deteriorating
+PAT0942,11,Male,1,84,156,101,38.9,18,92,187,81,Lupus,AIDS,deteriorating
+PAT0943,79,Female,0,71,172,124,39.2,33,98,183,132,Arthritis,Depression,recovered
+PAT0944,11,Other,0,104,182,111,41.3,15,78,196,148,Chronic Kidney Disease,Bronchitis,stable
+PAT0945,35,Other,0,73,123,66,38.1,38,98,147,172,Chronic Kidney Disease,Lupus,recovered
+PAT0946,94,Male,1,128,112,69,40.9,12,78,142,141,Obesity,Ebola,stable
+PAT0947,13,Other,0,74,156,80,41.1,33,80,173,162,Heart Disease,Migraine,recovered
+PAT0948,12,Other,1,92,168,96,37.4,13,72,181,138,Thalassemia,Flu,stable
+PAT0949,38,Other,0,135,87,101,39.6,21,86,161,141,Malaria,Asthma,stable
+PAT0950,26,Other,1,57,102,113,40.6,36,87,139,45,Cancer,Tuberculosis,deteriorating
+PAT0951,16,Male,1,68,199,57,36.4,28,98,209,73,Parkinson,Thalassemia,recovered
+PAT0952,59,Male,1,66,158,122,36.3,23,81,208,132,Multiple Sclerosis,Depression,deteriorating
+PAT0953,17,Male,0,145,85,92,35.0,9,75,173,91,HIV/AIDS,Asthma,stable
+PAT0954,68,Female,1,65,87,80,41.1,31,94,195,121,None,Bronchitis,recovered
+PAT0955,69,Male,0,69,84,72,34.9,34,98,199,75,Alzheimer,Ebola,recovered
+PAT0956,21,Other,1,57,99,100,35.5,12,87,153,104,Thalassemia,Dengue,stable
+PAT0957,32,Male,0,103,123,83,34.4,33,86,181,52,Hepatitis,Polio,recovered
+PAT0958,45,Female,1,56,197,110,37.0,13,89,153,142,Heart Disease,Alzheimer,stable
+PAT0959,43,Other,1,79,96,108,36.0,27,87,164,137,Cystic Fibrosis,Measles,deteriorating
+PAT0960,90,Male,0,111,138,98,39.7,30,79,130,131,Arthritis,Asthma,recovered
+PAT0961,69,Male,0,111,126,83,39.7,24,77,173,69,Epilepsy,Cholera,stable
+PAT0962,18,Female,0,131,132,113,34.1,13,85,191,175,Obesity,Flu,stable
+PAT0963,51,Male,1,92,118,98,36.1,20,79,190,139,Malaria,COVID-19,stable
+PAT0964,54,Female,0,98,115,70,35.0,31,92,144,164,Multiple Sclerosis,Parkinson,stable
+PAT0965,80,Female,0,143,150,120,37.6,18,78,131,64,Parkinson,Epilepsy,recovered
+PAT0966,62,Male,1,149,171,106,36.1,26,79,158,117,Multiple Sclerosis,Measles,stable
+PAT0967,79,Male,0,61,113,120,34.7,36,99,132,60,None,AIDS,recovered
+PAT0968,1,Male,0,64,136,124,39.5,11,80,148,45,HIV/AIDS,Arthritis,stable
+PAT0969,38,Other,0,86,160,70,34.2,26,76,127,106,Diabetes,Cancer,deteriorating
+PAT0970,65,Other,0,124,167,119,34.1,14,94,202,99,Dengue,Cholera,recovered
+PAT0971,28,Female,0,115,98,117,35.4,24,94,156,90,Asthma,COVID-19,stable
+PAT0972,91,Male,1,120,152,74,39.2,8,88,125,47,Hepatitis,Epilepsy,recovered
+PAT0973,9,Male,1,60,176,114,37.9,27,70,171,60,Lupus,Migraine,deteriorating
+PAT0974,90,Male,0,104,189,85,41.2,28,86,205,31,Arthritis,Dengue,recovered
+PAT0975,85,Female,0,53,115,55,39.2,20,91,208,43,Epilepsy,Lupus,deteriorating
+PAT0976,55,Male,1,130,100,95,39.3,23,93,203,37,Arthritis,Stroke,stable
+PAT0977,87,Female,0,138,98,115,39.5,35,79,201,179,Heart Disease,Alzheimer,stable
+PAT0978,45,Female,0,140,92,82,36.2,20,96,197,96,Cystic Fibrosis,Stroke,stable
+PAT0979,62,Female,0,143,178,97,40.8,19,97,163,174,Obesity,Polio,recovered
+PAT0980,39,Other,0,134,136,113,40.1,32,71,193,103,Multiple Sclerosis,Cancer,stable
+PAT0981,69,Female,1,137,155,92,35.5,34,95,156,163,HIV/AIDS,Flu,recovered
+PAT0982,64,Male,1,99,101,74,36.8,33,77,170,131,Parkinson,Pneumonia,deteriorating
+PAT0983,69,Male,1,148,185,114,40.1,11,95,195,40,Epilepsy,Hepatitis,stable
+PAT0984,11,Male,1,88,150,60,40.1,38,70,132,175,Alzheimer,Tuberculosis,recovered
+PAT0985,40,Male,1,105,103,122,40.8,30,98,129,159,Epilepsy,Gastritis,stable
+PAT0986,14,Male,0,92,110,119,40.7,38,80,134,138,Heart Disease,Bronchitis,recovered
+PAT0987,91,Female,1,87,126,106,40.4,14,84,137,111,Lupus,Cystic Fibrosis,stable
+PAT0988,87,Male,1,133,177,92,35.9,13,99,161,162,Obesity,Stroke,deteriorating
+PAT0989,10,Male,0,83,199,50,40.1,28,89,180,178,Malaria,Malaria,stable
+PAT0990,87,Other,1,61,101,69,35.1,37,99,143,43,COPD,Migraine,recovered
+PAT0991,35,Male,0,124,103,109,35.0,20,85,143,55,Diabetes,Malaria,recovered
+PAT0992,65,Other,1,87,189,114,35.7,26,72,162,58,Multiple Sclerosis,Arthritis,stable
+PAT0993,36,Female,0,107,133,88,36.2,36,80,122,167,Asthma,Ebola,recovered
+PAT0994,58,Male,1,63,155,96,36.1,39,79,151,55,Diabetes,Asthma,recovered
+PAT0995,0,Male,1,51,160,79,34.2,14,89,128,51,None,COVID-19,recovered
+PAT0996,33,Female,1,98,80,122,36.0,26,73,159,74,Cystic Fibrosis,Sickle Cell,recovered
+PAT0997,67,Male,0,71,97,125,35.0,14,78,125,77,Parkinson,Alzheimer,stable
+PAT0998,6,Male,1,118,95,50,40.7,14,88,156,154,Diabetes,Flu,deteriorating
+PAT0999,80,Other,1,139,165,111,34.1,36,70,185,59,Epilepsy,Ebola,deteriorating
+PAT1000,19,Female,1,131,186,123,36.6,11,74,123,106,Asthma,Asthma,recovered

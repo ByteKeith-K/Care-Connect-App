@@ -1,0 +1,253 @@
+Chapter 1: Problem Identification
+1.1 Introduction
+According to Kelly (2023), effective healthcare depends not only on good clinicians or doctors but also on the availability of readable, authentic, and readily accessible patient-held medical records. The healthcare industry has traditionally relied on paper-based systems for managing patient information. In these systems, patient registration involves manual data entry into physical forms that are stored in organized files. 
+The manual nature of such systems leads to inefficiencies in the security of the records, increases the risk of errors, and creates difficulties in assessing and analyzing patient information. N. Ali (2024) highlights that the manual nature of record-keeping is inherently inefficient for accessing a patient’s medical history. Despite the challenges, paper-based record-keeping systems remain widely used in many healthcare settings. This study aims to digitize paper-based record-keeping systems in healthcare departments, examining the benefits, challenges, and user acceptance of these systems.
+Furthermore, inconsistencies between paper and electronic records when both are used can lead to severe problems for patient intake and treatment. The transition to Electronic Health Records (EHRs)is therefore crucial to address these shortcomings and improve the quality and efficiency of health care delivery. During studies in 2014, N. Ali observed that paper-based record keeping poses significant security risks, unlike EHRs, which use encryption and access tracking, anyone can help themselves to paper files, creating the possibility of fraud or identity theft. This simply means that someone can pilfer the files and use the information to obtain health-care services for someone else. Paper records are also prone to fire, flood, and other natural disasters, and they do not have backups.
+The CareConnect App is a cutting-edge mobile application developed to modernize and optimize healthcare management systems. Unlike traditional paper-based methods, CareConnect leverages innovative technologies such as machine learning, predictive analytics, and natural language processing to deliver a comprehensive, efficient, and personalized healthcare experience.
+In many healthcare facilities, the current reliance on paper records poses significant challenges. These include the risk of data loss, inefficient record-keeping, and the difficulty of extracting valuable insights from unstructured clinical notes. Such limitations hinder the ability of medical practitioners to deliver personalized treatment plans and perform effective data analysis. The CareConnect App addresses these issues by digitizing patient records and providing healthcare professionals with advanced tools for data analysis and personalized care.
+
+1.2 Investigation and description of the current system / Literature on existing similar systems
+
+In the current paper-based healthcare management system, patient registration involves manually entering details into physical forms, which are stored in organized files. During medical consultations, doctors take handwritten notes on patient conditions, diagnoses, and treatment plans, adding these notes to the patient's file. The patient sometimes provides information such as treatment history during consultation, which cannot be true. Medical practitioners then perform statistical analyses manually using the recorded data. Treatment and procedure details are recorded on paper, and laboratory results are physically attached to the patient's file. In other hospitals and clinics, appointments are usually scheduled using paper calendars, and data retrieval requires staff to manually search through physical files. This system is prone to inefficiencies, errors, and difficulties in accessing and analyzing patient information.
+
+
+
+
+
+
+
+1.3 Statement of the problem
+
+Health management is a crucial area in the world, and it is increasingly neglected by most clinics and hospitals when managing the records of their patients. Challenges of the current health management system include:
+•	Inefficient Record-Keeping: Paper records can be easily lost or damaged, resulting in incomplete patient histories. Recording and retrieving patient information manually is time-consuming for administrative staff and healthcare professionals.
+•	Lack of Data Analysis and Insights: Without statistical analyses and machine learning models, it becomes challenging to identify patterns, trends, and correlations in patient data. Medical practitioners miss out on the ability to predict patient outcomes and potential complications based on historical data and health indicators.
+•	Inadequate Personalized Treatment: Without personalized treatment plans tailored to individual patients, care may not be optimized for each patient's unique medical history and conditions. Identifying critical health issues early can be difficult without advanced data analysis, leading to delayed interventions.
+•	Difficulty in Extracting Insights from Clinical Notes: Clinical notes are often unstructured and full of valuable information. Important details and insights from clinical notes may go unnoticed, impacting patient care and outcomes.
+
+1.4 System objectives
+ 
+•	To provide medicinal practitioners with tools such as Statsmodels to perform statistical analyses within the system, enabling identification of trends and patterns in patient data.
+•	To utilize predictive analytics such as Random Forest to predict patient outcomes based on historical data and health indicators.
+•	To implement algorithms such as K-Nearest Neighbors (KNN) to provide personalized treatment plans tailored to individual patients based on their medical history.
+•	To extract valuable insights from unstructured clinical notes using GPT-4o-mini.
+
+1.5 Description of the proposed system
+
+The CareConnect App is a state-of-the-art mobile application designed to revolutionize healthcare management by transitioning from paper-based records to a comprehensive digital platform. This transformation aims to streamline processes, enhance data accessibility, and improve patient outcomes through advanced technological integration. The proposed system comprises several key components and features:
+
+1.	Electronic Health Records (EHR):
+•	Patient Registration: Digitized patient registration allows for the quick and accurate collection of patient information through electronic forms. These records are stored securely in a centralized database.
+•	Digital Medical Records: Doctors and healthcare professionals can input patient conditions, diagnoses, and treatment plans directly into the system during consultations. This ensures that all medical records are up-to-date and easily accessible.
+
+2.	Data Analytics and Insights:
+•	Using tools like Statsmodels, the system enables healthcare professionals to perform statistical analyses on patient data, identifying trends and patterns 
+•	Machine learning models, such as Random Forest, predict patient outcomes based on historical data and health indicators. This allows for proactive healthcare measures and early intervention.
+•	Personalized Treatment Plans: Algorithms such as K-Nearest Neighbors (KNN) help develop personalized treatment plans tailored to individual patients based on their unique medical histories
+
+3.	Natural Language Processing (NLP):
+•	Clinical Notes Analysis: The app uses GPT-4o-mini to analyze unstructured clinical notes and extract valuable insights, ensuring no critical information is overlooked. This aids in making informed medical decisions and improving patient care.
+
+4.	Appointment Scheduling and Reminders:
+•	Digital Scheduling: Healthcare providers can schedule appointments through the app, allowing easy rescheduling and cancellations. Patients receive automated reminders, reducing the likelihood of missed appointments.
+
+5.	Secure Data Management:
+•	Data Encryption: All patient information is encrypted and stored securely, ensuring confidentiality and compliance with data protection regulations.
+•	Access Control: Only authorized personnel can access patient records, with audit trails to monitor and track data access and modifications.
+
+1.6 Limitations/challenges 
+	
+•	The app's advanced features may require modern hardware and reliable internet connectivity, which could be a challenge in under-resourced healthcare facilities.
+•	Integrating the app with existing hospital information systems and electronic health records (EHR) can be complex and require significant resources.
+•	Due to financial limitations, we are unable to incorporate all data collecting methods such as the application of IOT to help determine heartbeat through pulse rate readings, since circuit boards such as Raspberry Pi are expensive to buy.
+•	Due to inadequate time, we are unable to learn some of the latest technologies, such as machine vision, to scan particular facial diseases, for example, scanning potential eye diseases such as cataracts and glaucoma.
+•	While digitization reduces the risk of data loss, it does not eliminate the possibility of data entry errors. Accurate data entry practices and validation mechanisms are essential.
+•	The effectiveness of predictive analytics and personalized treatment plans depends on the quality and completeness of the data. Incomplete or inaccurate data can lead to suboptimal outcomes.
+•	Healthcare professionals accustomed to paper-based systems may resist transitioning to a digital platform. Overcoming this resistance requires effective change management strategies
+1.7 Scope/ Delamination of the system 
+
+1.7.1 Scope of the System
+The CareConnect App aims to revolutionize healthcare management by digitizing patient records, enhancing data analytics, and improving patient care through advanced technological integration. The scope of the system includes:
+•	Digitization of patient registration, medical records, and birth records.
+•	Secure storage and easy retrieval of patient information in a centralized database.
+•	Implementation of statistical analysis tools (Statsmodels) to identify trends and patterns in patient data.
+•	Use machine learning models (Random Forest) for predictive analytics to forecast patient outcomes.
+•	Development of personalized treatment plans using algorithms like K-Nearest Neighbors (KNN).
+•	Analysis of unstructured clinical notes using GPT-based models (GPT-4o-mini) to extract valuable insights and ensure no critical information is overlooked.
+•	Digital scheduling and automated reminders for patients to reduce missed appointments.
+•	Ensuring data encryption and secure access controls to protect patient information.
+•	Compliance with data protection regulations and continuous monitoring of security measures.
+•	Providing an intuitive user interface to accommodate varying levels of digital literacy.
+•	Regular updates and maintenance to incorporate new technological advancements and address any identified issues.
+1.7.2 Delimitation of the System
+While the CareConnect App encompasses a wide range of functionalities, certain areas are beyond its scope:
+
+•	The app excludes the provision of hardware devices required to access the system. Healthcare facilities ensure they have the necessary devices and reliable internet connectivity.
+•	The app does not provide on-site technical support or troubleshooting. Instead, it offers remote support and online resources to assist users.
+•	While the app aims to integrate with existing hospital information systems using standards like HL7 and FHIR, it may face challenges with non-standard or legacy systems that require custom solutions.
+•	The app provides tools for data analysis and personalized treatment plans, but does not replace the role of healthcare professionals in diagnosing and treating patients. Medical practitioners are responsible for making final clinical decisions.
+•	The app does not include functionalities for managing health insurance claims, billing, or payments. These processes need to be handled through separate systems.
+•	The app does not manage pharmaceutical inventories or prescription dispensing. It focuses on patient records and data analysis rather than supply chain management.
+1.8 Definition of terms
+
+1.	Health: is a state of complete physical, mental, and social well-being. It refers to the normal functioning of the human body, free of disease, pain, or injury.
+2.	App: short for application, refers to a software program designed to perform a specific function or set of functions on a computer, smartphone, tablet, or other electronic device
+3.	Care: Feeling that something is important and showing interest or concern.
+4.	Electronic Health Records (EHR): A digital version of a patient’s paper chart. EHRs are real-time, patient-centered records that make information available instantly and securely to authorized users. They contain a patient's medical history, diagnoses, medications, treatment plans, immunization dates, allergies, radiology images, and laboratory test results.
+5.	Statsmodels: An open-source library in Python that provides classes and functions for the estimation of many different statistical models, as well as for conducting statistical tests and statistical data exploration. It is particularly useful for performing in-depth statistical analyses.
+6.	Machine Learning: A subset of artificial intelligence (AI) that enables systems to learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of algorithms that can analyze data and make predictions.
+7.	Predictive Analytics: The use of statistical techniques, including machine learning algorithms, to analyze historical data and make predictions about future outcomes. Predictive analytics can identify trends and patterns in data that can be used to forecast events.
+8.	Random Forest: A machine learning algorithm that operates by constructing multiple decision trees during training time and outputs the class that is the mode of the classes (classification) or mean prediction (regression) of the individual trees. It is known for its accuracy and robustness.
+9.	K-Nearest Neighbors (KNN): A simple, supervised machine learning algorithm used for classification and regression. It works by finding the K nearest data points (neighbors) to a given data point and predicting the target variable based on the majority class or average of the neighbors.
+
+10.	Natural Language Processing (NLP): A field of artificial intelligence that focuses on the interaction between computers and humans through natural language. NLP aims to read, decipher, understand, and make sense of human language in a valuable way.
+11.	GPT-4o-mini: Generative Pre-trained Transformer, an advanced language model developed by OpenAI. It uses deep learning to produce human-like text based on the input it receives. GPT-4o-mini can generate text, translate languages, write different kinds of creative content, and answer questions.
+12.	Data Encryption: A method of converting plaintext (readable data) into ciphertext (encoded data) to protect information from unauthorized access. Encryption ensures that only authorized parties can access the data.
+13.	Data Validation: The process of ensuring that data is accurate, complete, and reliable before it is used. Data validation checks for errors, inconsistencies, and duplicates to maintain data integrity.
+
+
+
+
+
+
+
+
+
+Chapter 2: Requirements Specification
+2.1 Introduction
+The CareConnect App is a cross-platform mobile application designed to modernize healthcare management by transitioning from paper-based records to a secure and efficient digital platform. The system will integrate various functionalities such as Electronic Health Records (EHR), data analytics and insights, appointment scheduling and reminders, and secure data management. Additionally, this chapter gives a holistic overview of data collection methods and the necessary tools and technologies required for the complete functionality of the application. The purpose of this document is to outline the system requirements necessary for successful implementation 
+2.2 Requirements Analysis
+According to Jama Software (2025), requirements analysis is the process of discovering stakeholder needs and requirements for a system or software application being developed. It confirms accurate capture, interpretation, and representation of the customers’, users’, and other stakeholders’ needs and transforms those needs into a set of requirements for a product. For optimal results, the set of product requirements must be verified to have the characteristics of well-formed requirements (e.g., needed, unambiguous, complete, consistent, correct, feasible, verifiable) and validated to ensure that they represent the intent of the needs from which they were transformed.
+2.2.1 Functional Requirements
+According to AltexSoft (2025), functional requirements are product features or functions that developers must implement to enable users to accomplish their tasks. Generally, functional requirements describe system behavior under specific conditions. In the context of the CareConnect application, the following are the detailed key areas of CareConnect. 
+User Management
+•	Users (medical practitioners and administrators) must be able to create and manage accounts.
+•	Role-based access control (for medical practitioners and administrators) should be implemented.
+
+Data Analytics & Predictive Insights
+•	Use Statsmodels for statistical analysis of patient data.
+•	Implement Random Forest for predictive analytics to forecast patient outcomes.
+•	Use K-Nearest Neighbors (KNN) for generating personalized treatment plans.
+Clinical Notes Processing
+•	Leverage GPT-4o-mini for extracting insights from unstructured clinical notes.
+•	Ensure doctors can search and retrieve insights from patient histories easily.
+Electronic Health Records (EHR):
+•	Store and manage patient records.
+•	View, update, and retrieve patient medical history 
+Data Backup & Recovery:
+•	Implement an automated backup system to prevent data loss.
+•	Allow restoration of records in case of accidental deletion or system failure.
+
+Appointment Scheduling and Reminders:
+•	Send automated reminders via push notifications.
+
+Secure Data Management:
+•	Encrypt patient data for confidentiality.
+•	Implement backup and disaster recovery mechanisms.
+
+2.2.2 Non-Functional Requirements
+Non-functional requirements define performance, security, usability, and scalability aspects of a system.  
+Security: 
+•	The system must comply with healthcare data protection laws such as HIPAA (Health Insurance Portability and Accountability Act of 1996).
+
+Scalability: 
+•	Designed for small-scale deployment with limited user growth.
+Performance: 
+•	Data retrieval and processing should be optimized for fast access.
+Usability:
+•	Must have an intuitive interface for ease of use by medical professionals and patients.
+Reliability: 
+•	The system should have an uptime of at least 99.9%.
+
+2.3 Data Requirements
+According to QAT Global (2025), data requirements refer to the specific needs and specifications related to the management, storage, processing, and retrieval of data within a software system. These requirements define how data should be captured, stored, organized, validated, and used to support the desired functionalities and objectives of the software solution. For a mobile healthcare application like CareConnect, which involves managing sensitive patient data, the data requirements will include types of data, data formats, volume of data, security needs, and integration with other systems.
+
+Patient Data:
+•	Personal details (name, age, gender, contact information).
+•	Medical history, diagnoses, vital signs, treatments, reports 
+Doctor and Staff Data:
+•	Medical credentials and specialization.
+•	Patient appointments and consultation history.
+Appointment Records:
+•	Scheduled appointments, cancellations, and completed visits.
+System Logs:
+•	User activity logs for security and auditing.
+Storage Requirements:
+•	The database will utilize NoSQL storage solutions to ensure optimal performance and flexibility
+•	Firebase Database with encrypted storage.
+
+2.4 Processing Requirements
+According to Re-Manual (2023), performance requirements in software development refer to the specifications that define the Efficiency of the System under certain conditions. These Requirements might include processing speed, response time, resource usage, throughput, and scalability. Hence, in the context of the CareConnect application, processing requirements define how our system is going to handle patient data, perform data analysis and computations, and manage system resources to meet functional and non-functional needs as specified in the above sections of this chapter. 
+The CareConnect App must support various processing functionalities, which include:
+Data Input and Validation:
+•	Ensure accuracy in data entry through validation rules.
+Data Processing:
+•	Convert raw medical data into structured insights using machine learning algorithms 
+Data Retrieval and Querying:
+•	Enable quick access to patient history and analytics dashboards.
+Automated Notifications:
+•	Generate real-time alerts for upcoming appointments and critical medical conditions 
+System Performance Monitoring:
+•	Continuously track system performance and optimize resource usage.
+
+
+2.5 Software Requirements
+According to IEEE Computer Society (1990), a software requirement is a capability or condition that must be met for software to solve a real-world problem. More formally, a software requirement can be defined as a feature or non-functional constraint that the software must provide to fulfill the needs of users and other stakeholders. Requirements represent the core functionality that software must deliver to be useful and meet business process or user goals.
+Mobile Development Framework
+•	Flutter
+•	Dart SDK
+Backend Technologies
+•	Google Firebase project (Firestore, Storage, Auth)
+•	Python 
+•	flask (REST API)
+Machine Learning & Data Analytics
+•	Statsmodels (For statistical analysis)
+•	Scikit-learn (For implementing predictive models like Random Forest & KNN)
+•	GPT-4o-mini (For processing unstructured clinical notes)
+
+2.6 Hardware Requirements
+Lahiri in 2021 highlights that hardware requirements are derived from the system's functional requirements. They specify what the hardware should do and how it should perform under normal and fault conditions. The hardware should meet these functional requirements to maintain safety. Therefore, hardware requirements outline the necessary devices and infrastructure to run, deploy, and maintain the CareConnect App efficiently. These requirements are divided into client-side (end-user devices), server-side (backend infrastructure), and networking hardware for smooth operations. Importantly, it outlines the infrastructure needed for hosting and running the system.
+
+Minimum Requirements:
+•	For Mobile Devices (Android):
+•	CPU: Quad-core 1.8 GHz or better
+•	RAM: 3 GB minimum (4 GB recommended)
+•	Storage: At least 200 MB free for app installation and data
+•	Display: 5.0" screen or larger, 720p (1280x720) minimum resolution
+•	OS: Android 8.0 (Oreo) or above
+•	Network: Wi-Fi or 4G/LTE internet connection
+
+
+
+
+2.7 Chapter Summary
+This chapter details the functional and non-functional requirements necessary for developing the CareConnect App. It covered data and processing needs, software and hardware specifications, and prioritized features based on stakeholder input. These requirements serve as the foundation for system design and implementation, ensuring that the final product aligns with user expectations and industry standards.
+
+
+References
+
+Ali, N. (2024) 'Security Risks in Paper-Based Record Keeping', International Journal of Medical Informatics, 28(1), pp. 12–19.
+
+AltexSoft (2025) 'Functional vs Non-Functional Requirements: Examples and Types'. Available at: https://www.altexsoft.com/blog/functional-vs-non-functional-requirements/ (Accessed: 5 June 2025).
+
+Flutter Documentation (no date) Available at: https://docs.flutter.dev/ (Accessed: 5 June 2025).
+
+Google Firebase Documentation (no date) Available at: https://firebase.google.com/docs (Accessed: 5 June 2025).
+
+IEEE Computer Society (1990) IEEE Standard Glossary of Software Engineering Terminology. IEEE Std 610.12-1990.
+
+Jama Software (2025) 'What is Requirements Analysis?'. Available at: https://www.jamasoftware.com/blog/requirements-analysis/ (Accessed: 5 June 2025).
+
+Kelly, J. (2023) 'The Importance of Readable and Accessible Patient-Held Medical Records', Journal of Healthcare Informatics, 15(2), pp. 45–52.
+
+Lahiri, D. (2021) 'Hardware Requirements and Safety in System Design'. In: System Engineering for Safety. Springer, pp. 101–120.
+
+OpenAI (2024) 'GPT-4o-mini Model Card'. Available at: https://platform.openai.com/docs/models/gpt-4o (Accessed: 5 June 2025).
+
+QAT Global (2025) 'Data Requirements in Software Development'. Available at: https://qat.com/data-requirements-in-software-development/ (Accessed: 5 June 2025).
+
+Re-Manual (2023) 'Performance Requirements in Software Development'. Available at: https://re-manual.com/performance-requirements (Accessed: 5 June 2025).
+
+Scikit-learn (no date) 'Machine Learning in Python'. Available at: https://scikit-learn.org/ (Accessed: 5 June 2025).
+
+Statsmodels (no date) 'Statistical Modeling and Econometrics in Python'. Available at: https://www.statsmodels.org/ (Accessed: 5 June 2025).
+

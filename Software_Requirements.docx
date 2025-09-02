@@ -1,0 +1,128 @@
+Care Connect App: Software Requirements for Development
+
+1. Minimum Hardware Requirements
+
+- CPU: Intel Core i5 (8th Gen) or AMD Ryzen 5 equivalent or better
+- RAM: 8 GB minimum (16 GB recommended for smooth multitasking and emulation)
+- Storage: 20 GB free disk space (SSD recommended)
+- Display: 1366x768 resolution minimum (1920x1080 recommended)
+- GPU: Integrated graphics sufficient for development; dedicated GPU recommended for emulation and Flutter rendering
+- Network: Reliable broadband internet connection
+
+2. Frontend (Flutter)
+
+**Operating System:**
+- Windows 10/11 (primary)
+- macOS (required for iOS build/deployment)
+- Linux (optional)
+
+**Languages & SDKs:**
+- Dart SDK (>=2.17.0 <4.0.0)
+- Flutter SDK 3.x
+
+**IDE/Tools:**
+- Android Studio or VS Code (with Flutter and Dart plugins)
+- Android/iOS emulators or real devices for testing
+
+**Flutter/Dart Packages (from pubspec.yaml):**
+- flutter, cupertino_icons (UI)
+- http (API calls)
+- intl (internationalization)
+- image_picker (image input)
+- pdf, printing (PDF export/printing)
+- timeline_tile (timeline UI)
+- cloud_firestore, firebase_core, firebase_auth, firebase_storage (Firebase integration)
+- provider (state management)
+- share_plus (sharing)
+- path_provider (file system access)
+- fl_chart (charts/visualizations)
+- csv (CSV parsing)
+- flutter_test, flutter_lints (testing/linting)
+
+**Assets:**
+- Images and ML model files in the `assets/` directory
+
+3. Backend (Python/Flask)
+
+**Operating System:**
+- Windows 10/11 (primary)
+- Linux or macOS (optional)
+
+**Languages & Runtimes:**
+- Python 3.8+
+
+**Python Libraries (from requirements.txt):**
+- flask (REST API)
+- flask-cors (CORS support)
+- flask-limiter (rate limiting)
+- openai (optional, for GPT integration)
+- python-dotenv (environment variable management)
+- pytz (timezone support)
+- firebase-admin (Firestore access, install via pip if not in requirements.txt)
+- pandas, numpy, statsmodels, scikit-learn, joblib (for analytics/ML, if used in scripts/backend_api.py)
+- Jupyter Notebook (optional, for ML experimentation)
+- Gunicorn (optional, for production deployment)
+- pip (Python package manager)
+
+**Cloud/Database:**
+- Google Firebase project (Firestore, Storage, Auth)
+- Firebase service account JSON (e.g., care-connect-app-37a32-firebase-adminsdk-fbsvc-359903fd5d.json)
+
+**Deployment/DevOps:**
+- PowerShell (pwsh.exe) for running scripts on Windows
+- Docker (optional, for containerized backend)
+- Google Cloud SDK (optional, for cloud deployment)
+
+4. Version Control & Collaboration
+- Git (version control)
+- GitHub, GitLab, or Bitbucket (remote repository hosting)
+
+5. Optional/Advanced
+- Jupyter Notebook (for ML prototyping)
+- Google Chrome/Safari/Edge (for web testing, if using Flutter web)
+- Emulators/Simulators (Android/iOS)
+
+6. Minimum Hardware Requirements for Running the App
+
+**For Mobile Devices (Android/iOS):**
+- CPU: Quad-core 1.8 GHz or better
+- RAM: 3 GB minimum (4 GB recommended)
+- Storage: At least 200 MB free for app installation and data
+- Display: 5.0" screen or larger, 720p (1280x720) minimum resolution
+- OS: Android 8.0 (Oreo) or iOS 13.0 and above
+- Network: Wi-Fi or 4G/LTE internet connection
+
+**For Desktop/Web (if applicable):**
+- CPU: Intel Core i3 (6th Gen) or equivalent
+- RAM: 4 GB minimum
+- Storage: 200 MB free disk space
+- Display: 1366x768 resolution minimum
+- OS: Windows 10/11, macOS 10.15+, or modern Linux
+- Network: Broadband internet connection
+
+**Note:**
+- For best performance, newer devices and stable internet are recommended.
+- The app may run on lower-spec devices, but performance and user experience may be reduced.
+
+---
+
+**Summary Table**
+
+| Requirement Type      | Details/Examples                                                                 |
+|----------------------|----------------------------------------------------------------------------------|
+| Hardware             | Intel i5/Ryzen 5+, 8GB+ RAM, SSD, 20GB+ free space, 1366x768+ display            |
+| OS                   | Windows 10/11, macOS (iOS), Linux (optional)                                     |
+| Languages            | Python 3.8+, Dart 2.17+, Java/Kotlin, Swift/Obj-C                                |
+| Frameworks/SDKs      | Flutter SDK 3.x, Android Studio, Xcode, Firebase CLI                             |
+| Python Libraries     | flask, flask-cors, flask-limiter, openai, python-dotenv, pytz, firebase-admin, etc.|
+| Dart/Flutter Packages| http, fl_chart, firebase_core, cloud_firestore, provider, pdf, printing, etc.     |
+| Tools/Utilities      | Git, PowerShell, VS Code/Android Studio, Chrome, Emulators                       |
+| Cloud/Database       | Firebase (Firestore, Storage, Auth), service account JSON                        |
+| Optional             | Docker, Google Cloud SDK, Jupyter Notebook                                       |
+
+---
+
+**Note:**
+- All dependencies are listed in `requirements.txt` (Python) and `pubspec.yaml` (Flutter/Dart).
+- For iOS development, a Mac with Xcode is required.
+- For backend deployment, ensure Python and all required packages are installed, and environment variables are configured for Firebase access.
