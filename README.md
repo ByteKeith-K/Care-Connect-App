@@ -1,6 +1,6 @@
 # care_connect_app
 
-A new Flutter project.
+This is a cross platform mobile app for healthcare that curbs paper based methods for a digital dynamic system. Machine Learning, data analysis at the core.
 
 ## Getting Started
 
