@@ -3,7 +3,6 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 
 class PatientRegistrationScreen extends StatefulWidget {
   const PatientRegistrationScreen({super.key});
-
   @override
   State<PatientRegistrationScreen> createState() => _PatientRegistrationScreenState();
 }
